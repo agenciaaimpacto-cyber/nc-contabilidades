@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CALENDARIO TRIBUTARIO", "text": "El **F29 de agosto** tiene un plazo que no te puedes saltar"},
+    {"type": "stat", "number": "20", "unit": "sept", "text": "es el plazo para declarar y pagar el **F29** por Internet en sii.cl"},
+    {"type": "text", "lines": ["Si declaras en formulario", "de papel, el plazo es antes:", "**12 de septiembre.**"], "sub": "Si el dia cae en fin de semana o feriado, se corre al siguiente dia habil."},
+    {"type": "proof", "tag": "SII", "text": "El F29 declara y paga el **IVA mensual** de tu empresa", "source": "Fuente: sii.cl, Calendario Tributario"},
+    {"type": "cta", "text": "No quieres andar **corriendo cada mes?**", "button": "Escribeme por WhatsApp ->", "sub": "Llevamos tu contabilidad al dia, sin sustos de ultima hora."}
+  ]
+}

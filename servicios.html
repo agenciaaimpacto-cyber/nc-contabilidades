@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Servicios — NC Contabilidades</title>
+<meta name="description" content="Contabilidad mensual, declaraciones de IVA y Renta, formalización de empresas, declaraciones juradas y término de giro.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy-dark: #0B2440; --navy: #1E4E78; --navy-light: #E7EEF6;
+    --orange: #F5821F; --orange-deep: #D66A0F; --paper: #FAFAF8;
+    --ink: #16202B; --ink-dim: #5B6673; --line: #DCE3EA;
+    --whatsapp: #25D366; --whatsapp-deep: #1DA851;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body { background: var(--paper); color: var(--ink); font-family: 'Inter', sans-serif; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+  .serif { font-family: 'Fraunces', serif; }
+  a { color: inherit; }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 0 24px; }
+
+  header.site { background: var(--navy-dark); color: var(--paper); position: sticky; top: 0; z-index: 50; border-bottom: 1px solid rgba(250,250,248,0.1); }
+  .nav-row { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; max-width: 960px; margin: 0 auto; gap: 16px; }
+  .brand { font-family: 'Fraunces', serif; font-weight: 600; font-size: 20px; white-space: nowrap; }
+  .brand span { color: var(--orange); }
+  nav.links { display: none; gap: 20px; font-size: 14px; font-weight: 500; }
+  nav.links a { text-decoration: none; color: rgba(250,250,248,0.85); }
+  nav.links a:hover, nav.links a.active { color: var(--orange); }
+  @media (min-width: 760px) { nav.links { display: flex; } }
+  .btn-nav-wa { background: var(--whatsapp); color: #fff; font-size: 13px; font-weight: 600; padding: 9px 16px; border-radius: 999px; text-decoration: none; white-space: nowrap; }
+  .btn-nav-wa:hover { background: var(--whatsapp-deep); }
+
+  .page-head { padding: 48px 24px 12px; max-width: 780px; margin: 0 auto; }
+  .eyebrow { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--navy); margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+  h1 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 32px; color: var(--navy-dark); margin-bottom: 12px; }
+  .page-head p.lead { font-size: 15.5px; color: var(--ink-dim); }
+
+  section { padding: 28px 0 48px; }
+
+  .service-block { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 26px; margin-bottom: 18px; display: flex; gap: 18px; align-items: flex-start; }
+  .service-block .icon { flex: none; width: 48px; height: 48px; border-radius: 50%; background: var(--navy-dark); color: var(--orange); display: flex; align-items: center; justify-content: center; font-size: 22px; }
+  .service-block h2 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 19px; color: var(--navy-dark); margin-bottom: 8px; }
+  .service-block p { font-size: 14.5px; color: var(--ink); }
+
+  .cta-block { text-align: center; padding: 12px 24px 0; }
+  .btn-primary { display: inline-flex; align-items: center; gap: 10px; background: var(--whatsapp); color: #fff; font-weight: 600; font-size: 16px; padding: 14px 26px; border-radius: 999px; text-decoration: none; box-shadow: 0 6px 20px rgba(37,211,102,0.28); }
+  .btn-primary:hover { background: var(--whatsapp-deep); }
+
+  footer { background: var(--navy-dark); color: rgba(250,250,248,0.7); margin-top: 40px; padding: 40px 24px 90px; }
+  footer .wrap { max-width: 960px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 24px; font-size: 14px; }
+  footer a { text-decoration: none; color: rgba(250,250,248,0.85); }
+  footer a:hover { color: var(--orange); }
+  footer .brand { color: var(--paper); margin-bottom: 8px; }
+
+  .wa-float { position: fixed; bottom: 20px; right: 20px; background: var(--whatsapp); color: #fff; width: 56px; height: 56px; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 22px rgba(0,0,0,0.25); z-index: 60; text-decoration: none; }
+  .wa-float:hover { background: var(--whatsapp-deep); }
+  .wa-float svg { width: 28px; height: 28px; }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="nav-row">
+    <div class="brand">NC <span>Contabilidades</span></div>
+    <nav class="links">
+      <a href="index.html">Inicio</a>
+      <a href="servicios.html" class="active">Servicios</a>
+      <a href="noticias.html">Noticias</a>
+    </nav>
+    <a class="btn-nav-wa" href="https://wa.me/56934291937?text=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20los%20servicios%20contables" target="_blank" rel="noopener">WhatsApp</a>
+  </div>
+</header>
+
+<main>
+  <div class="page-head">
+    <span class="eyebrow">Soluciones contables completas</span>
+    <h1>Nuestros servicios</h1>
+    <p class="lead">Todo lo que tu empresa necesita para cumplir con el SII y mantenerse al día, en un solo lugar.</p>
+  </div>
+
+  <div class="wrap">
+    <section>
+
+      <div class="service-block">
+        <div class="icon">📊</div>
+        <div>
+          <h2>Contabilidad Mensual</h2>
+          <p>Registro y control contable ordenado, mes a mes, para que tengas siempre información clara del estado de tu empresa.</p>
+        </div>
+      </div>
+
+      <div class="service-block">
+        <div class="icon">💲</div>
+        <div>
+          <h2>Declaraciones IVA y Renta</h2>
+          <p>Preparación y envío del Formulario 29 (IVA mensual) y de la Operación Renta anual, dentro de los plazos que fija el SII.</p>
+        </div>
+      </div>
+
+      <div class="service-block">
+        <div class="icon">🤝</div>
+        <div>
+          <h2>Formalización de Empresas</h2>
+          <p>Te acompañamos en el inicio de actividades y la constitución de tu empresa, de principio a fin.</p>
+        </div>
+      </div>
+
+      <div class="service-block">
+        <div class="icon">📄</div>
+        <div>
+          <h2>Declaraciones Juradas</h2>
+          <p>Identificamos cuáles te corresponden y las preparamos y enviamos dentro del plazo, para evitar observaciones del SII.</p>
+        </div>
+      </div>
+
+      <div class="service-block">
+        <div class="icon">✅</div>
+        <div>
+          <h2>Término de Giro</h2>
+          <p>Si cierras tu empresa, te ayudamos a hacerlo de forma ordenada y sin dejar observaciones pendientes ante el SII.</p>
+        </div>
+      </div>
+
+      <div class="cta-block">
+        <a class="btn-primary" href="https://wa.me/56934291937?text=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20los%20servicios%20contables" target="_blank" rel="noopener">
+          Contáctanos y recibe asesoría
+        </a>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="brand serif" style="font-size:18px;">NC Contabilidades</div>
+      <p>Soluciones contables completas para tu empresa.</p>
+    </div>
+    <div>
+      <div>+56 9 3429 1937</div>
+      <div><a href="mailto:nicole.edith87@gmail.com">nicole.edith87@gmail.com</a></div>
+    </div>
+  </div>
+</footer>
+
+<a class="wa-float" href="https://wa.me/56934291937?text=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20los%20servicios%20contables" target="_blank" rel="noopener" aria-label="Escribir por WhatsApp">
+  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2m0 1.67a8.2 8.2 0 0 1 5.83 2.42 8.18 8.18 0 0 1 2.41 5.82c0 4.55-3.7 8.24-8.25 8.24a8.2 8.2 0 0 1-4.19-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.18 8.18 0 0 1-1.26-4.38c0-4.55 3.7-8.24 8.25-8.24m-4.52 4.7c-.16 0-.42.06-.64.31s-.85.83-.85 2.02.87 2.35.99 2.51c.12.16 1.7 2.72 4.19 3.71 2.07.83 2.49.66 2.94.62.45-.04 1.46-.6 1.66-1.17.21-.58.21-1.08.15-1.18-.06-.1-.22-.16-.46-.28s-1.46-.72-1.68-.8c-.23-.08-.39-.12-.56.12s-.65.8-.8.97c-.15.16-.29.19-.55.06-.26-.12-1.08-.4-2.06-1.27-.76-.68-1.28-1.51-1.42-1.77-.15-.25-.02-.39.11-.51.11-.11.25-.29.37-.43.12-.15.16-.25.24-.42.08-.16.04-.31-.02-.43-.06-.12-.56-1.36-.77-1.86-.2-.49-.41-.42-.56-.43z"/></svg>
+</a>
+
+</body>
+</html>

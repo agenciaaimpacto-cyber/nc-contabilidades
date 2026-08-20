@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PROYECTO DE LEY", "text": "El impuesto a las empresas podria bajar de **27%** a **23%**"},
+    {"type": "text", "lines": ["El proyecto llego al Congreso", "como parte del", "**Plan de Reconstruccion Nacional.**"], "sub": "Es un proyecto de ley: todavia no esta aprobado ni es norma vigente."},
+    {"type": "proof", "tag": "Regimen Pro Pyme", "text": "Para el año comercial 2026, el proyecto contempla una tasa transitoria para pymes de **12,5%**", "source": "Fuente: NSS Legal & Tax / Kame — analisis de la reforma tributaria 2026"},
+    {"type": "proof", "tag": "PPM", "text": "Tambien contempla bajar el PPM de **0,25%** a **0,2%** para pymes con ingresos bajo UF 50.000", "source": "Fuente: Kame — Reforma Tributaria Chile 2026"},
+    {"type": "cta", "text": "Quieres saber como te afecta **a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a entender que aplica a tu empresa."}
+  ]
+}

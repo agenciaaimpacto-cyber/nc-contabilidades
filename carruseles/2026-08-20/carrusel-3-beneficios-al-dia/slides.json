@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Tener tu contabilidad **al dia** abre puertas que no ves a simple vista"},
+    {"type": "text", "lines": ["No es solo evitar multas.", "Es acceso a **credito,**", "**licitaciones y beneficios.**"], "sub": "Segun expertos en cumplimiento tributario."},
+    {"type": "proof", "tag": "Cifneg Consultores", "text": "\"Una empresa que cumple correctamente con sus impuestos no solo evita multas, sino que **mejora su perfil** frente a bancos e inversionistas\"", "source": "Fuente: Emol — cita de Ivan Cifuentes, perito contable y tributario"},
+    {"type": "proof", "tag": "REQUISITO", "text": "Estar al dia con el SII es la base para postular a **fondos estatales y licitaciones**", "source": "Fuente: Emol — Cumplimiento tributario en pymes"},
+    {"type": "cta", "text": "Quieres poner tu contabilidad **al dia?**", "button": "Escribeme por WhatsApp ->", "sub": "Contabilidad mensual, IVA, Renta y mas."}
+  ]
+}

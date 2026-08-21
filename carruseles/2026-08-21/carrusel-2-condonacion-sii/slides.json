@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El SII tiene una **nueva politica** para condonar multas e intereses"},
+    {"type": "text", "lines": ["Se instruyo mediante", "la Circular N°27 de 2026,", "que reemplazo la anterior."], "sub": "Aplica a deudas tributarias por atraso, no elimina el capital adeudado."},
+    {"type": "stat", "number": "75", "unit": "%", "text": "de condonacion de intereses puedes lograr si regularizas dentro de los **primeros 3 meses** de mora"},
+    {"type": "proof", "tag": "SII", "text": "Las deudas de mas de **24 meses** quedan excluidas de la condonacion ordinaria", "source": "Fuente: sii.cl, Circular N°27 (2026)"},
+    {"type": "cta", "text": "Tienes deudas tributarias **atrasadas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso y te ayudamos a regularizar a tiempo."}
+  ]
+}

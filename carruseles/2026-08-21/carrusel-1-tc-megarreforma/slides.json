@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ACTUALIZACION", "text": "El Tribunal Constitucional **no tocó** la baja del impuesto a las empresas"},
+    {"type": "text", "lines": ["El Plan de Reconstruccion", "Nacional sigue avanzando", "**hacia convertirse en ley.**"], "sub": "Te contamos esta reforma cuando aun estaba en tramitacion."},
+    {"type": "proof", "tag": "13 AGO 2026", "text": "El TC acogio parcialmente los requerimientos de la oposicion, pero solo sobre normas de **estabilidad tributaria** e indemnizaciones ambientales", "source": "Fuente: Emol — Quiroz califica fallo del TC como satisfactorio"},
+    {"type": "proof", "tag": "LO QUE IMPORTA A LAS PYMES", "text": "La baja del impuesto corporativo de **27% a 23%** ni siquiera fue impugnada ante el TC: queda en pie", "source": "Fuente: Emol, economia"},
+    {"type": "cta", "text": "Todavia falta su **promulgacion.** Quieres que te avisemos cuando sea ley?", "button": "Escribeme por WhatsApp ->", "sub": "Te explicamos como te afecta apenas se publique."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PIENSALO ASI", "text": "Le pones atencion a tu marketing, a tus ventas... **y a tu contabilidad?**"},
+    {"type": "text", "lines": ["Nadie abre un negocio", "sin pensar en como va", "**a vender.**"], "sub": "Pero muchos dejan la contabilidad para despues, hasta que aparece un problema."},
+    {"type": "proof", "tag": "REALIDAD", "text": "Un area contable descuidada puede costarte **multas, tiempo y oportunidades** de financiamiento", "source": "Cifras y casos revisados en despachos anteriores de este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es una decision de negocio, igual que contratar a un vendedor", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le vas a dar a tu contabilidad **el lugar que merece?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sobre tu negocio, sin costo ni compromiso."}
+  ]
+}

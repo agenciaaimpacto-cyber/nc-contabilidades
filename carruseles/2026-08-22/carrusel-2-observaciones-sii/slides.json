@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ALERTA SII", "text": "Hay **5 errores** que aumentan el riesgo de que tu pyme sea fiscalizada"},
+    {"type": "text", "lines": ["Segun Ivan Cifuentes,", "perito judicial contable", "**y tributario.**"], "sub": "La mayoria son evitables con una contabilidad ordenada."},
+    {"type": "proof", "tag": "ERROR FRECUENTE", "text": "Mezclar gastos personales con gastos del negocio -- **facil de detectar** para el SII", "source": "Fuente: Emol, fiscalizacion de pymes"},
+    {"type": "proof", "tag": "OTRO ERROR COMUN", "text": "Diferencias entre el **IVA mensual (F29)** y la renta anual (F22) que no calzan entre si", "source": "Fuente: Emol, economia"},
+    {"type": "cta", "text": "El desafio no es esconderse: es **ordenar tu contabilidad.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion antes de que el SII lo haga."}
+  ]
+}

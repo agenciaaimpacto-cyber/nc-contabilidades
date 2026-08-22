@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "BALANCE OFICIAL", "text": "El SII y la Tesoreria ya devolvieron a **2,8 millones** de contribuyentes"},
+    {"type": "text", "lines": ["Es el balance de", "la Operacion Renta", "**2026.**"], "sub": "Y las declaraciones con problemas tambien bajaron."},
+    {"type": "stat", "number": "13", "unit": "%", "text": "menos declaraciones con **observaciones** del SII, comparado con el ano 2025"},
+    {"type": "proof", "tag": "LO QUE SIGNIFICA", "text": "465.223 declaraciones quedaron observadas -- **casi 13% menos** que el ano anterior", "source": "Fuente: La Tercera, balance Operacion Renta 2026"},
+    {"type": "cta", "text": "Menos observaciones significa **devoluciones mas rapidas.** Tu contabilidad esta lista para la proxima Renta?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a mantenerla al dia todo el ano."}
+  ]
+}

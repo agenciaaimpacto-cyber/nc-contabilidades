@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PREGUNTA HONESTA", "text": "Tienes un plan de marketing... pero tienes un **plan para tu contabilidad?**"},
+    {"type": "text", "lines": ["Ventas, marketing,", "operaciones... todos", "**tienen su lugar.**"], "sub": "La contabilidad deberia tenerlo tambien, no solo aparecer cuando hay un problema."},
+    {"type": "proof", "tag": "EL COSTO REAL", "text": "Descuidar tu contabilidad puede salir mas caro que **contratar el servicio**", "source": "Casos y cifras revisados en despachos anteriores de este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Cuanto le has dedicado a tu contabilidad **este mes?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ALIVIO TRIBUTARIO", "text": "El SII condona multas e intereses hasta el **30 de noviembre**"},
+    {"type": "text", "lines": ["Es para Tocopilla", "y Maria Elena,", "**Region de Antofagasta.**"], "sub": "Por los danos del sistema frontal y el estado de excepcion por calamidad publica."},
+    {"type": "proof", "tag": "QUE CUBRE", "text": "El IVA y los impuestos mensuales -- **Formularios 29 y 50** -- se pueden declarar fuera de plazo, sin recargos", "source": "Fuente: SII, noticias"},
+    {"type": "proof", "tag": "NO ES LA PRIMERA VEZ", "text": "En julio el SII ya habia extendido un beneficio igual a **otras 29 comunas**, con plazo al 30 de octubre", "source": "Fuente: SII, noticias"},
+    {"type": "cta", "text": "Una emergencia declarada **corre el plazo, no lo elimina.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos si tu comuna quedo incluida y como declarar bien."}
+  ]
+}

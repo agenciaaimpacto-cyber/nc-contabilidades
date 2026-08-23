@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMPARACION SIMPLE", "text": "Si tu negocio no vendiera, actuarias hoy. **Y si tu contabilidad esta al debe?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones... nadie", "**las deja para despues.**"], "sub": "La contabilidad tampoco deberia ser la que menos atencion recibe."},
+    {"type": "proof", "tag": "LO QUE ESTA EN JUEGO", "text": "Una contabilidad desordenada se nota justo cuando **mas la necesitas**: un credito, una licitacion, una fiscalizacion", "source": "Casos y cifras revisados en despachos anteriores de este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu situacion contable **no es un gasto.** Es una decision de negocio, como cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Tu contabilidad esta al dia **o esta esperando a que algo falle?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sobre tu negocio, sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PREGUNTA CLAVE", "text": "Tu comuna tuvo un estado de excepcion este ano? **Puede cambiar tu plazo de IVA**"},
+    {"type": "text", "lines": ["El SII ha usado esto", "varias veces en 2026:", "**condonar, no eliminar.**"], "sub": "Multas e intereses se perdonan, pero la obligacion de declarar sigue."},
+    {"type": "stat", "number": "30", "unit": "nov", "text": "es el nuevo tope para declarar sin recargos si tu comuna esta en la lista del SII"},
+    {"type": "proof", "tag": "COMO CONFIRMARLO", "text": "El beneficio se otorga **al momento de declarar en sii.cl**, comuna por comuna -- no es automatico para todo el pais", "source": "Fuente: SII, noticias"},
+    {"type": "cta", "text": "No asumas tu plazo. **Confirmalo.**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar tu situacion antes de que venza cualquier plazo."}
+  ]
+}

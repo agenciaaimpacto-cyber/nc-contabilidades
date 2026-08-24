@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PREGUNTA PARA TU PYME", "text": "Cuando fue la **ultima vez** que revisaste tu contabilidad con lupa?"},
+    {"type": "text", "lines": ["Los especialistas", "lo recomiendan", "**antes del cierre**"], "sub": "de cada ejercicio tributario -- no cuando llega la notificacion del SII."},
+    {"type": "stat", "number": "5", "unit": "senales", "text": "de alerta que el SII cruza para decidir si fiscaliza o no a una pyme"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Detectar una inconsistencia **con tu contador** es mas barato que explicarsela despues **al SII**", "source": "Fuente: Emol, agosto 2026"},
+    {"type": "cta", "text": "Hagamos esa revision **antes de que sea necesaria.**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sobre tu situacion contable, sin costo."}
+  ]
+}

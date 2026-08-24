@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ALERTA SII", "text": "Hay **5 senales** que pueden gatillar una fiscalizacion a tu pyme"},
+    {"type": "text", "lines": ["Mezclar gastos", "personales con", "**los de la empresa.**"], "sub": "Es la senal mas comun que detecta el SII."},
+    {"type": "proof", "tag": "TAMBIEN SUMAN PUNTOS", "text": "Diferencias entre el **F29** y el **F22**, falta de respaldo documental, y boletas de honorarios que **encubren un sueldo fijo**", "source": "Fuente: Emol, agosto 2026"},
+    {"type": "proof", "tag": "EL DATO CLAVE", "text": "Ninguna senal es una infraccion por si sola -- pero **si no se justifica**, puede derivar en sancion", "source": "Fuente: Ivan Cifuentes, perito judicial contable (Emol)"},
+    {"type": "cta", "text": "Prefieres revisarlo **antes o despues** de que llegue el SII?", "button": "Escribeme por WhatsApp ->", "sub": "Hacemos una revision preventiva de tu contabilidad."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UNA PREGUNTA HONESTA", "text": "Le dedicas tiempo a marketing y ventas. **Y a tu contabilidad?**"},
+    {"type": "text", "lines": ["Ninguna area de", "tu negocio se deja", "**en piloto automatico.**"], "sub": "La contabilidad tampoco deberia ser la excepcion."},
+    {"type": "proof", "tag": "LO QUE ESTA EN JUEGO", "text": "Una contabilidad al debe se nota justo cuando **mas la necesitas**: un credito, una licitacion, una fiscalizacion", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es una decision de negocio, como cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Tu contabilidad **suma o resta** a tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sobre tu caso, sin costo ni compromiso."}
+  ]
+}

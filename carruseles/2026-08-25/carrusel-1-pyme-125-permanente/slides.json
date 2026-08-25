@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA TU PYME", "text": "El Gobierno prometio dejar fijo el **12,5%** de impuesto para las pymes"},
+    {"type": "text", "lines": ["Hoy es una tasa", "**transitoria**"], "sub": "Rige solo hasta 2027 -- despues sube a 15% en 2028 y vuelve a 25% en 2029, salvo que se apruebe una ley."},
+    {"type": "stat", "number": "12,5", "unit": "%", "text": "es la tasa que el Gobierno se comprometio a dejar **permanente** para el regimen Pro Pyme General"},
+    {"type": "proof", "tag": "OJO CON ESTO", "text": "Es un **compromiso**, no una ley vigente -- el proyecto para hacerlo permanente todavia no se envia al Congreso", "source": "Fuente: Emol, abril 2026"},
+    {"type": "cta", "text": "Confirmemos si tu pyme **esta bien clasificada** en el regimen correcto.", "button": "Escribeme por WhatsApp ->", "sub": "Asi aprovechas la tasa reducida mientras dure."}
+  ]
+}

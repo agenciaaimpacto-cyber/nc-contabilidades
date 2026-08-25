@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PIENSALO ASI", "text": "No manejarias un auto sin mirar el tablero. **Por que dirigir tu negocio sin mirar tus numeros?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones... cada area", "**tiene su plan.**"], "sub": "La contabilidad deberia tener el mismo lugar, no el ultimo."},
+    {"type": "proof", "tag": "LO QUE ESTA EN JUEGO", "text": "Sin el tablero al dia, un problema se detecta **tarde**: cuando ya afecto un credito, una licitacion o trajo una multa", "source": "Casos y cifras revisados en despachos anteriores de este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es una decision de negocio, igual que cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le vas a dar a tu contabilidad **el lugar que merece?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sobre tu negocio, sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TRASLADAS MERCADERIA", "text": "Desde el **1 de noviembre** cambian las guias de despacho electronicas"},
+    {"type": "text", "lines": ["Hay que sumar", "**datos del transporte**"], "sub": "Nombre y RUT del chofer, patente del vehiculo, hora de inicio y llegada del traslado."},
+    {"type": "stat", "number": "6", "unit": "meses", "text": "de plazo extra dio el SII para adaptarse -- la exigencia se postergo desde mayo a noviembre de 2026"},
+    {"type": "proof", "tag": "SII", "text": "El objetivo es reforzar la **trazabilidad** del traslado de mercaderias", "source": "Fuente: SII, Resolucion Exenta N 154 y N 52"},
+    {"type": "cta", "text": "Revisemos si tu **sistema de facturacion** ya esta listo.", "button": "Escribeme por WhatsApp ->", "sub": "Mejor antes de noviembre que despues de una multa."}
+  ]
+}

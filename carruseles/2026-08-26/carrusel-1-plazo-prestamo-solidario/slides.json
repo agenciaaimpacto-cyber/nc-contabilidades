@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII AMPLIO EL PLAZO", "text": "**900 mil** contribuyentes tienen hasta noviembre para regularizar el Prestamo Solidario"},
+    {"type": "text", "lines": ["El plazo original", "vencia el 30 de agosto.", "**Ahora se corrio.**"], "sub": "Aplica a quienes deben cuotas del prestamo otorgado en 2020 y 2021."},
+    {"type": "stat", "number": "30", "unit": "nov", "text": "es la nueva fecha limite para presentar las declaraciones de renta que faltan"},
+    {"type": "proof", "tag": "SII", "text": "Quienes acceden a la ampliacion reciben un **correo del SII** con el detalle del tramite", "source": "Fuente: SII, sii.cl/noticias"},
+    {"type": "cta", "text": "Tienes cuotas pendientes de ese prestamo?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion antes de que se acerque noviembre."}
+  ]
+}

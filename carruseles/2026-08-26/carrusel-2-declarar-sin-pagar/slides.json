@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESDE SEPTIEMBRE", "text": "El SII habilitara declarar **sin pagar** en linea"},
+    {"type": "text", "lines": ["Es parte de la misma", "ampliacion de plazo por el", "**Prestamo Solidario.**"], "sub": "Sirve para dejar la declaracion al dia aunque no puedas pagar de inmediato."},
+    {"type": "stat", "number": "14", "unit": "sept", "text": "arranca la opcion de generar un **comprobante de deuda** en sii.cl"},
+    {"type": "proof", "tag": "SII", "text": "Con ese comprobante puedes pagar despues o acogerte a un **convenio en la Tesoreria**", "source": "Fuente: SII, sii.cl/noticias"},
+    {"type": "cta", "text": "No sabes si esto te aplica a ti?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisar tu situacion tributaria sin costo."}
+  ]
+}

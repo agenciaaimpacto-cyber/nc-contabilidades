@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PIENSALO ASI", "text": "Le dedicas tiempo al marketing, a las ventas, a las operaciones. **Y a tu contabilidad?**"},
+    {"type": "text", "lines": ["No es un area menor", "que se revisa una vez al año.", "**Es parte del dia a dia.**"], "sub": "Igual que cualquier otra area de tu negocio."},
+    {"type": "proof", "tag": "LO QUE ESTA EN JUEGO", "text": "Dejarla para despues suele salir **mas caro**: una multa, un credito rechazado, una licitacion perdida", "source": "Casos revisados en despachos anteriores de este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es una decision de negocio, como cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Conversemos sobre el estado de tu contabilidad.", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo ni compromiso."}
+  ]
+}

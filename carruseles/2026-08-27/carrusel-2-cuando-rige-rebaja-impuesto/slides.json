@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "La rebaja de **27% a 23%** no parte apenas se publique la ley"},
+    {"type": "text", "lines": ["El impuesto de Primera", "Categoria baja recien", "**entre 2027 y 2029.**"], "sub": "Segun reporto Diario Financiero, el despliegue es gradual por anos comerciales."},
+    {"type": "stat", "number": "0", "unit": "cambios", "text": "en tu declaracion de renta **de este ano** por esta ley en particular"},
+    {"type": "proof", "tag": "DIARIO FINANCIERO", "text": "Las normas sin fecha especial rigen desde el **primer dia del mes siguiente** a su publicacion", "source": "Fuente: Diario Financiero"},
+    {"type": "cta", "text": "No sabes como te va a afectar en 2027?", "button": "Escribeme por WhatsApp ->", "sub": "Mejor ir preparando tu pyme con tiempo."}
+  ]
+}

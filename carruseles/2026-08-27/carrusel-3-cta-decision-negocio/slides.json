@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PENSALO ASI", "text": "Revisas tus ventas cada semana. **Tu contabilidad, cada cuanto?**"},
+    {"type": "text", "lines": ["No es un tramite que se", "resuelve una vez al ano.", "**Es parte del negocio.**"], "sub": "Igual que el marketing, las ventas o la operacion."},
+    {"type": "proof", "tag": "LO QUE ESTA EN JUEGO", "text": "Una ley que cambia, un plazo que se mueve, una cifra que no cuadra: **todo pasa por ahi**", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es una decision de negocio, como cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Conversemos sobre el estado de tu contabilidad.", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo ni compromiso."}
+  ]
+}

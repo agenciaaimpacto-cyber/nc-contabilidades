@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "5 DE AGOSTO", "text": "El Congreso **despacho** el Plan de Reconstruccion Nacional"},
+    {"type": "text", "lines": ["Termino el tramite", "en el Congreso.", "**Pero aun no es ley.**"], "sub": "Falta que el Presidente la promulgue y se publique en el Diario Oficial."},
+    {"type": "stat", "number": "1", "unit": "sept", "text": "es la fecha en que regirian las normas sin plazo especial, si se publica en agosto"},
+    {"type": "proof", "tag": "GOBIERNO DE CHILE", "text": "El Tribunal Constitucional ya resolvio los requerimientos en su contra **antes del despacho**", "source": "Fuente: gob.cl"},
+    {"type": "cta", "text": "Quieres saber como te afecta esta ley?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo."}
+  ]
+}

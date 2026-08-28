@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TERMOMETRO PYME", "text": "El **33%** de las pymes ya posterga el pago del IVA"},
+    {"type": "text", "lines": ["Y el 41% tiene", "deudas vigentes", "**con la Tesoreria.**"], "sub": "Ambos indicadores subieron en agosto, segun el ultimo Termometro Pyme."},
+    {"type": "stat", "number": "67", "unit": "%", "text": "de las empresas reporto una **caida en sus ventas** respecto del mes anterior"},
+    {"type": "proof", "tag": "EMOL", "text": "Es el **peor registro** desde que se mide el Termometro Pyme, en mayo de 2026", "source": "Fuente: Emol"},
+    {"type": "cta", "text": "Tu IVA esta al dia?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion tributaria sin costo."}
+  ]
+}

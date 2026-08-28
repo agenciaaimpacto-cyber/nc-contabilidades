@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ALERTA", "text": "El **74%** de las pymes ya usa plata personal para operar"},
+    {"type": "text", "lines": ["Subio de 68% a 74%", "en un mes.", "**El mayor salto del estudio.**"], "sub": "No es estrategia de crecimiento, es sobrevivencia, dicen los expertos."},
+    {"type": "stat", "number": "56", "unit": "%", "text": "de las pymes dice que sus clientes le pagan recien a **30 dias**"},
+    {"type": "proof", "tag": "EMOL", "text": "Mas de 20 mil empresas participaron en la medicion de agosto del **Termometro Pyme**", "source": "Fuente: Emol"},
+    {"type": "cta", "text": "Sabes realmente el estado de tu flujo de caja?", "button": "Escribeme por WhatsApp ->", "sub": "Ordenar tu contabilidad ayuda a verlo a tiempo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "BENEFICIO SERCOTEC", "text": "**$3 millones** para formalizar tu negocio, sin devolucion"},
+    {"type": "text", "lines": ["Se llama", "Capital Semilla", "**Modo Empleo.**"], "sub": "Sercotec abrio las postulaciones este martes 25 de agosto."},
+    {"type": "stat", "number": "583", "unit": "cupos", "text": "personas desempleadas seran beneficiadas en esta primera etapa, con **$2.500 millones** en total"},
+    {"type": "proof", "tag": "BIOBIOCHILE", "text": "El subsidio incluye ademas **asesoria especializada** para avanzar en la formalizacion de la empresa", "source": "Fuente: BioBioChile"},
+    {"type": "cta", "text": "Postulaciones abiertas hasta el **8 de septiembre.**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a preparar tu formalizacion."}
+  ]
+}

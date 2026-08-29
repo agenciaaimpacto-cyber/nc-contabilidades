@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LETRA CHICA", "text": "Para postular al Capital Semilla, **no puedes tener deudas con el SII**"},
+    {"type": "text", "lines": ["No basta con", "estar cesante.", "**Tu situacion tributaria tambien se revisa.**"], "sub": "Es uno de los requisitos regulares de todas las convocatorias Sercotec."},
+    {"type": "proof", "tag": "REQUISITOS SERCOTEC", "text": "No tener **deudas laborales, previsionales ni tributarias morosas** es condicion de entrada", "source": "Fuente: BioBioChile / La Tercera"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Un beneficio publico se puede **perder por un tramite tributario** mal llevado, no solo por no cumplir el perfil", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Vas a postular a un fondo o credito?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos que tu situacion tributaria este al dia."}
+  ]
+}

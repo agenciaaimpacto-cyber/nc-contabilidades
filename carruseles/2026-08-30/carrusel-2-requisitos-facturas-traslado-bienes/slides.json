@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TRASLADAS MERCADERIA", "text": "Desde el **1 de noviembre** tus facturas y guias necesitan mas datos"},
+    {"type": "text", "lines": ["No basta con", "emitir el documento.", "**Hay que detallarlo.**"], "sub": "Nuevos campos obligatorios para el traslado de bienes."},
+    {"type": "proof", "tag": "QUE PIDE EL SII", "text": "Direccion y comuna de origen y destino, **nombre y RUT del chofer**, patente del vehiculo", "source": "Fuente: SII, Resolucion Exenta N° 154"},
+    {"type": "proof", "tag": "A QUIEN AFECTA", "text": "Retail, manufactura, distribucion, agroindustria y **exportadores**", "source": "Fuente: SII, Resolucion Exenta N° 52"},
+    {"type": "cta", "text": "Tu sistema de facturacion **ya esta preparado?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso antes de noviembre."}
+  ]
+}

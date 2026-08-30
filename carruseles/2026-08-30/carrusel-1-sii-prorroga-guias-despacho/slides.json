@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El SII **postergo a noviembre** el nuevo formato de facturas y guias de despacho"},
+    {"type": "text", "lines": ["La fecha original", "era el 1 de mayo.", "**Ahora es el 1 de noviembre.**"], "sub": "La prorroga se dio con la Resolucion Exenta N° 52."},
+    {"type": "stat", "number": "6", "unit": "meses", "text": "de plazo extra dio el SII para adaptar los sistemas de facturacion"},
+    {"type": "proof", "tag": "SII", "text": "Las nuevas reglas nacen de la **Resolucion Exenta N° 154**, sobre traslado de bienes", "source": "Fuente: SII, Resolucion Exenta N° 52"},
+    {"type": "cta", "text": "Ya revisaste si tu empresa **esta lista?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a evaluar tu situacion."}
+  ]
+}

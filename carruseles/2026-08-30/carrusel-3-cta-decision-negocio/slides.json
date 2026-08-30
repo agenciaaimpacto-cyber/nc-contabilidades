@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Adaptas tus procesos cuando cambia una norma. **Y tu contabilidad, la revisas igual?**"},
+    {"type": "text", "lines": ["No es un tramite", "de una vez al ano.", "**Es una decision de negocio.**"], "sub": "Como elegir un proveedor o ajustar tus procesos a tiempo."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "Una norma que cambia puede darte **meses de plazo** -- si la conoces a tiempo", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es anticiparte antes de que sea urgente", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Conversemos sobre el estado de tu contabilidad.", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo ni compromiso."}
+  ]
+}

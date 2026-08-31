@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "No emitir boleta puede terminar en **cierre del negocio** hasta por 20 dias"},
+    {"type": "text", "lines": ["No es solo", "una multa.", "**Es parar de vender.**"], "sub": "La sancion aplica por no emitir boletas o emitirlas por montos menores."},
+    {"type": "stat", "number": "500", "unit": "%", "text": "es la multa maxima sobre el monto de la operacion, segun la infraccion"},
+    {"type": "proof", "tag": "SII", "text": "El rango de la multa va de **50% a 500%** del monto de la operacion", "source": "Fuente: La Hora, fiscalizacion SII a pymes"},
+    {"type": "cta", "text": "Prefieres prevenir **antes que lamentar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion contable sin costo."}
+  ]
+}

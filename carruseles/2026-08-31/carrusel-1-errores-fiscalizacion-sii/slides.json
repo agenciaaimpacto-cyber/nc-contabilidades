@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El error mas comun de las pymes: **no emitir boleta** cuando el pago llega por transferencia o efectivo"},
+    {"type": "text", "lines": ["Con tarjeta casi", "nadie lo olvida.", "**Con transferencia, si.**"], "sub": "El SII cruza los documentos electronicos con los medios de pago."},
+    {"type": "stat", "number": "3", "unit": "errores", "text": "mas: **F29 que no cuadra** con las ventas, declaraciones sin pago y honorarios subdeclarados"},
+    {"type": "proof", "tag": "SII", "text": "Hasta un **cambio de domicilio** sin avisar puede pesar en una fiscalizacion", "source": "Fuente: La Hora, fiscalizacion SII a pymes"},
+    {"type": "cta", "text": "Tu contabilidad **esta al dia** con lo que el SII cruza?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

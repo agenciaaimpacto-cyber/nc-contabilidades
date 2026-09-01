@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MERCADO PUBLICO", "text": "Registrarte en Mercado Publico es gratis. **Pero no te habilita para ofertar.**"},
+    {"type": "text", "lines": ["Registro y acreditacion", "no son lo mismo.", "**Confundirlos te deja fuera.**"], "sub": "Sin acreditacion como proveedor, no puedes licitarle al Estado."},
+    {"type": "stat", "number": "3-10", "unit": "dias", "text": "tarda la validacion que cruza tus datos con el **SII, la TGR y la Direccion del Trabajo**"},
+    {"type": "proof", "tag": "MERCADO PUBLICO", "text": "El arancel anual es **$20.000 microempresas / $49.308 pequenas y medianas**", "source": "Fuente: Emol, venderle al Estado"},
+    {"type": "cta", "text": "Tu pyme esta lista para **venderle al Estado?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion contable sin costo."}
+  ]
+}

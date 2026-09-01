@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Inviertes en marketing, en ventas, en operaciones. **Y en tu contabilidad?**"},
+    {"type": "text", "lines": ["No es un area", "de segunda linea.", "**Es tan estrategica como las demas.**"], "sub": "Una contabilidad al dia abre puertas que otras areas no pueden abrir."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "Estar al dia con el SII puede ser la diferencia entre **licitar o quedar fuera**", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Hablemos del estado de tu contabilidad.", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo ni compromiso."}
+  ]
+}

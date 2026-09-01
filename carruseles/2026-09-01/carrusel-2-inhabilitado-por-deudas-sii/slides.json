@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO", "text": "Puedes tener cuenta activa en Mercado Publico por anos **y aun asi quedar inhabilitado**"},
+    {"type": "text", "lines": ["Una deuda con el SII", "te saca de la licitacion.", "**Aunque ya estes registrado.**"], "sub": "La validacion revisa tu situacion tributaria, no solo tu inscripcion."},
+    {"type": "stat", "number": "100", "unit": "% al dia", "text": "es lo que exige la validacion con el **SII y la TGR** para mantenerte habilitado"},
+    {"type": "proof", "tag": "MERCADO PUBLICO", "text": "Documentacion vencida o **deudas pendientes** con el SII te dejan fuera de ofertar", "source": "Fuente: Emol, venderle al Estado"},
+    {"type": "cta", "text": "No dejes que una deuda **te cierre una licitacion.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

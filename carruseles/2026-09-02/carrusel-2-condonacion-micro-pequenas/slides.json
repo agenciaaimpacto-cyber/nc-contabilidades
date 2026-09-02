@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "BENEFICIO EXTRA", "text": "Las micro y pequenas empresas pueden acceder a **hasta 80% de condonacion**"},
+    {"type": "text", "lines": ["No es automatico.", "Hay que acreditarlo.", "**Con documentacion contable y financiera.**"], "sub": "La Tesoreria evalua caso a caso la situacion economica compleja del negocio."},
+    {"type": "stat", "number": "80", "unit": "%", "text": "de descuento en intereses y multas para micro y pequenas empresas que califiquen"},
+    {"type": "proof", "tag": "COMO SE PIDE", "text": "El tramite se hace en **sii.cl y tgr.cl**, junto con el pago de la deuda", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tu pyme podria calificar para este **beneficio?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a preparar la documentacion."}
+  ]
+}

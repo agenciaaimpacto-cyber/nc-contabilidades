@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII Y TESORERIA", "text": "Si tienes deudas con el SII, hoy puedes pagarlas con **hasta 75% menos interes**"},
+    {"type": "text", "lines": ["No es perdonar el impuesto,", "es rebajar el recargo.", "**El capital de la deuda siempre se paga.**"], "sub": "La condonacion se aplica solo sobre intereses y multas."},
+    {"type": "stat", "number": "75", "unit": "%", "text": "de condonacion de interes si tu deuda tiene entre **1 y 3 meses** de atraso"},
+    {"type": "proof", "tag": "TRAMOS POR ANTIGUEDAD", "text": "Baja de forma gradual: **55% (4 a 12 meses), 30% (13 a 18), 15% (19 a 24)** y 0% sobre 24 meses", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tienes deudas pendientes con el **SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion y como regularizarla."}
+  ]
+}

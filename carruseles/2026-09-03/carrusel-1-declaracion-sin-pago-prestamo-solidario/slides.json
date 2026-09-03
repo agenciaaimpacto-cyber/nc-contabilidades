@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII - PRESTAMO SOLIDARIO", "text": "Debes el Prestamo Solidario? Desde el **14 de septiembre** puedes regularizar online"},
+    {"type": "text", "lines": ["No hace falta ir presencial.", "El SII habilita en sii.cl", "**la 'declaracion sin pago'.**"], "sub": "Genera un comprobante de deuda para acordar el pago despues."},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "Declaras sin pagar, obtienes el comprobante y desde el **22 de septiembre** firmas un convenio de pago con la Tesoreria (TGR)", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "PLAZO", "text": "El plazo para regularizar la deuda del Prestamo Solidario vence el **30 de noviembre de 2026**", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tienes deudas pendientes con el **SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion y como regularizarla."}
+  ]
+}

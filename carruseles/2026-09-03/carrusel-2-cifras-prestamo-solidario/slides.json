@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CIFRAS SII", "text": "Mas de **1 millon** de personas deben el Prestamo Solidario de la pandemia"},
+    {"type": "text", "lines": ["No presentaron la declaracion", "de renta que exige el beneficio", "**entre 2022 y 2026.**"], "sub": "Ese requisito es el que quedo pendiente para ellos."},
+    {"type": "stat", "number": "553.000", "unit": "M$", "text": "es la deuda total acumulada por los **1.073.590 contribuyentes** que no regularizaron"},
+    {"type": "proof", "tag": "YA EMPEZARON LOS COBROS", "text": "Desde **septiembre** el SII comienza a emitir los giros de cobro, con reajustes e intereses incluidos", "source": "Fuente: SII"},
+    {"type": "cta", "text": "No dejes que una deuda tributaria te tome por sorpresa.", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion antes de que llegue el giro."}
+  ]
+}

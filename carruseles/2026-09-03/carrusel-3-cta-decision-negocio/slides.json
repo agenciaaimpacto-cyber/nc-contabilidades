@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Le dedicas tiempo a marketing, a ventas, al equipo. **Y a tu contabilidad?**"},
+    {"type": "text", "lines": ["No es un area de segunda.", "Es una decision de negocio.", "**Igual que las demas.**"], "sub": "Dejarla para despues suele salir mas caro."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "Un tramite mal llevado con el SII puede terminar en **giros de cobro con interes**", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Hablemos del estado de tu contabilidad.", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo ni compromiso."}
+  ]
+}

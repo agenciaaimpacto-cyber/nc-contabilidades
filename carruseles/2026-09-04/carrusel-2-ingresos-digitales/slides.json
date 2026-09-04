@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CIFRAS SII", "text": "Los influencers que emiten boleta de honorarios subieron **54%**"},
+    {"type": "text", "lines": ["Cada vez mas creadores", "se estan formalizando.", "**El SII lo esta notando.**"], "sub": "Y ahora cruza esos datos directo con las plataformas."},
+    {"type": "stat", "number": "8", "unit": "tipos", "text": "de ingresos digitales que el SII ahora identifica: publicidad, afiliados, suscripciones, propinas y mas"},
+    {"type": "proof", "tag": "EL RIESGO", "text": "Si la plataforma informa un pago y tu no lo declaraste, **el SII lo detecta** en el cruce de datos", "source": "Fuente: SII, La Tercera"},
+    {"type": "cta", "text": "No dejes que un ingreso no declarado se convierta en un problema.", "button": "Escribeme por WhatsApp ->", "sub": "Ordenamos tu contabilidad antes de que el SII te escriba a ti."}
+  ]
+}

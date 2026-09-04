@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII - NUEVA DECLARACION", "text": "Eres creador de contenido o influencer? El SII creo una declaracion jurada **solo para ti**"},
+    {"type": "text", "lines": ["Resolucion Exenta N 113,", "del 31 de agosto de 2026.", "**Crea la DJ 1965.**"], "sub": "Obliga a las plataformas a informar lo que te pagan."},
+    {"type": "proof", "tag": "QUE INFORMAN", "text": "Patrocinios, publicidad, marketing de afiliados, suscripciones, donaciones y ventas pay-per-view, entre otros", "source": "Fuente: SII, Resolucion N 113"},
+    {"type": "proof", "tag": "DESDE CUANDO", "text": "Rige desde el **Ano Tributario 2027**, con plazo de presentacion hasta el **29 de marzo** de cada ano", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tienes ingresos por redes sociales o contenido digital?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos como declararlos correctamente."}
+  ]
+}

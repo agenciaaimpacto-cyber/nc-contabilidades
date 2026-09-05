@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Cuidas tu marketing, tus ventas, tu operacion. **Y tu contabilidad?**"},
+    {"type": "text", "lines": ["No es un area secundaria.", "Es tan importante", "**como las demas.**"], "sub": "Descuidarla sale mas caro que ponerla al dia a tiempo."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "La ley cambia, el SII fiscaliza mas, y **las reglas se mueven** todo el tiempo", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Hablemos del estado de tu contabilidad.", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo ni compromiso."}
+  ]
+}

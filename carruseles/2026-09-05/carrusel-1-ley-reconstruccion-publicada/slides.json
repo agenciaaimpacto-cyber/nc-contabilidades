@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "YA ES LEY", "text": "Se publico en el Diario Oficial la **Ley de Reconstruccion Nacional**"},
+    {"type": "text", "lines": ["Deja de ser un proyecto.", "Se publico el", "**3 de septiembre de 2026.**"], "sub": "El Congreso la habia despachado a fines de julio."},
+    {"type": "proof", "tag": "QUE CAMBIA", "text": "Suspende por 12 meses el **IVA a la venta de viviendas nuevas** y abre una ventana para repatriar capitales con tasa de **7% a 10%**", "source": "Fuente: Diario Financiero, DF Tax"},
+    {"type": "proof", "tag": "OJO CON ESTO", "text": "No todas las normas rigen desde ya: el calendario es **escalonado** hasta 2027", "source": "Fuente: Diario Financiero, DF Tax"},
+    {"type": "cta", "text": "Quieres saber que te aplica a ti?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos como te afecta esta ley."}
+  ]
+}

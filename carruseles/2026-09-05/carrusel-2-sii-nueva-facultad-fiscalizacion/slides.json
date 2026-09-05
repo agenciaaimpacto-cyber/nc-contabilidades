@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESDE OCTUBRE", "text": "El SII tendra **nuevas facultades** para cruzar informacion con el Estado"},
+    {"type": "text", "lines": ["Viene incluido en la", "Ley de Reconstruccion Nacional,", "**ya publicada.**"], "sub": "Y aplica a partir del 1 de octubre de 2026."},
+    {"type": "stat", "number": "1", "unit": "oct", "text": "es la fecha desde la que el SII podra cruzar datos con **otras instituciones del Estado** para fiscalizar"},
+    {"type": "proof", "tag": "PARA LAS PYMES", "text": "Mas cruces de informacion significa **menos margen de error** en lo que declaras", "source": "Fuente: Diario Financiero, DF Tax"},
+    {"type": "cta", "text": "Tu contabilidad esta lista para mas fiscalizacion?", "button": "Escribeme por WhatsApp ->", "sub": "La revisamos antes de que el SII cruce los datos."}
+  ]
+}

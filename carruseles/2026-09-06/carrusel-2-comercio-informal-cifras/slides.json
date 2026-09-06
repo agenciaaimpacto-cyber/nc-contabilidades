@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El **68,8%** de las personas dice haber visto negocios que le generan sospechas"},
+    {"type": "text", "lines": ["Y el", "**74%** cree que el", "problema aumento este ano."], "sub": "Segun un estudio del Observatorio de Comercio Ilicito y Seguridad (CNC)."},
+    {"type": "stat", "number": "96", "unit": "%", "text": "considera importante o muy importante que se fiscalice **la entrega de boletas**"},
+    {"type": "proof", "tag": "PARA TU PYME", "text": "Si emites todas tus boletas y facturas en regla, **una denuncia no te afecta**", "source": "Fuente: SII / CNC"},
+    {"type": "cta", "text": "Tu contabilidad respalda cada boleta que emites?", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos que todo este en orden."}
+  ]
+}

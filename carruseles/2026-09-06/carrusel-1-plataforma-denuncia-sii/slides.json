@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NUEVO", "text": "El SII y la Camara Nacional de Comercio lanzaron una **plataforma de denuncias**"},
+    {"type": "text", "lines": ["Cualquier persona, o un", "fiscalizador municipal,", "**puede denunciar** un local."], "sub": "La denuncia llega directo al SII para evaluacion."},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "Se reporta de forma **confidencial** un negocio con indicios de funcionar de manera irregular", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "QUE PASA DESPUES", "text": "El SII **evalua la informacion** y decide si corresponde una fiscalizacion", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tu negocio esta con todo en regla?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion antes de que llegue una denuncia."}
+  ]
+}

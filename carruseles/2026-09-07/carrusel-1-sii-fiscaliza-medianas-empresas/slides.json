@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NUEVO", "text": "El SII publico las cifras de fiscalizacion de **medianas empresas** en 2025"},
+    {"type": "text", "lines": ["Forman parte de su", "Plan de Gestion de", "**Cumplimiento Tributario 2026.**"], "sub": "El PGCT define como fiscaliza el SII durante el ano."},
+    {"type": "stat", "number": "40.493", "text": "contribuyentes del segmento de medianas empresas **quedaron bajo revision** en 2025"},
+    {"type": "proof", "tag": "EL RESULTADO", "text": "Sobre ese grupo, el SII realizo **1.237 auditorias** y **1.252 revisiones** de cumplimiento", "source": "Fuente: SII, PGCT 2026"},
+    {"type": "cta", "text": "Tu contabilidad esta lista si te toca revision?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion antes de que el SII lo haga."}
+  ]
+}

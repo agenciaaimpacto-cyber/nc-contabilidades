@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Tienes un plan de marketing. Tienes metas de ventas. **Tienes un plan contable?**"},
+    {"type": "text", "lines": ["La contabilidad no es", "papeleo de fin de mes.", "**Es informacion para decidir.**"], "sub": "Con ella sabes si tu negocio realmente esta ganando."},
+    {"type": "proof", "tag": "LO QUE CUESTA NO TENERLA", "text": "Multas, oportunidades perdidas y decisiones tomadas **sin numeros reales**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu contabilidad **no es un gasto.** Es una decision de negocio, como cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Cuando fue la ultima vez que revisaste tus numeros?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO FISCALIZA HOY EL SII", "text": "Ya no elige a quien revisar **al azar**"},
+    {"type": "text", "lines": ["Usa Big Data y", "modelos de riesgo para", "**priorizar sus revisiones.**"], "sub": "Asi lo definio en su Plan de Gestion de Cumplimiento Tributario 2026."},
+    {"type": "proof", "tag": "LO QUE YA HIZO", "text": "En 2025 fiscalizo a **40.493 medianas empresas** con auditorias y revisiones de cumplimiento", "source": "Fuente: SII, PGCT 2026"},
+    {"type": "proof", "tag": "PARA TU PYME", "text": "El mismo modelo de datos se aplica en **todos los tamanos** de contribuyentes", "source": "Fuente: SII, PGCT 2026"},
+    {"type": "cta", "text": "Sabes si tu negocio queda bien parado ante un cruce de datos?", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos tu contabilidad antes que el SII."}
+  ]
+}

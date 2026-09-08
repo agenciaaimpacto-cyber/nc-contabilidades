@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "BENEFICIO TRIBUTARIO", "text": "Las pymes chilenas certificaron un monto **record** en la Ley I+D durante 2025"},
+    {"type": "text", "lines": ["La Ley 20.241 da un", "credito tributario por gastos", "en investigacion y desarrollo."], "sub": "Se descuenta directo del impuesto a la renta."},
+    {"type": "stat", "number": "149%", "text": "fue el alza real de los montos certificados por pymes frente a 2024"},
+    {"type": "proof", "tag": "EL DATO", "text": "Las pymes certificaron mas de **$21.044 millones** en 2025, su cifra mas alta desde que existe la ley", "source": "Fuente: BioBioChile, resultados Ley I+D 2025"},
+    {"type": "cta", "text": "Tu pyme podria acceder a este tipo de beneficios?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion contable y que aplica para ti."}
+  ]
+}

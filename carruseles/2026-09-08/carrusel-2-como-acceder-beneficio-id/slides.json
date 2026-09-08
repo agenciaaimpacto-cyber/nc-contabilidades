@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Los beneficios tributarios **no son solo para las grandes empresas**"},
+    {"type": "text", "lines": ["El numero de pymes que uso", "la Ley I+D en 2025 subio", "**de 15 a 29 empresas.**"], "sub": "Un alza de 87% en un solo año."},
+    {"type": "proof", "tag": "EL REQUISITO", "text": "Para postular hay que respaldar **cada gasto** con la documentacion contable en regla", "source": "Fuente: BioBioChile, resultados Ley I+D 2025"},
+    {"type": "proof", "tag": "LA BASE", "text": "Acceder a creditos, fondos o beneficios tributarios **empieza por tener la contabilidad ordenada**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Sabes que beneficios podrias estar dejando pasar?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo sobre tu caso."}
+  ]
+}

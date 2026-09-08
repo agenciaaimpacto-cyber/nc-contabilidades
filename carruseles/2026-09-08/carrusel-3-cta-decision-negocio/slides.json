@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Cuidas tu marketing. Cuidas tus ventas. **Cuidas tu contabilidad igual?**"},
+    {"type": "text", "lines": ["No es un area aparte.", "Es la que te dice si", "**el negocio realmente funciona.**"], "sub": "Sin numeros claros, decides a ciegas."},
+    {"type": "proof", "tag": "LO QUE CUESTA NO TENERLA", "text": "Multas, beneficios perdidos y decisiones tomadas **sin informacion real**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es una decision de negocio, como cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Cuando fue la ultima vez que revisaste tus numeros?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

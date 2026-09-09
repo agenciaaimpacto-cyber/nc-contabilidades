@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Inviertes en marketing. Armas tu equipo de ventas. **Y tu contabilidad?**"},
+    {"type": "text", "lines": ["No es un tramite aparte.", "Es la que te dice si tu", "**negocio realmente da los numeros.**"], "sub": "Sin eso, cada decision se toma a ciegas."},
+    {"type": "proof", "tag": "LO QUE ARRIESGAS", "text": "Multas, beneficios que no aprovechas y **decisiones sin informacion real**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu contabilidad **no es un gasto.** Es una decision de negocio, como cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Cuando revisaste tus numeros por ultima vez?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

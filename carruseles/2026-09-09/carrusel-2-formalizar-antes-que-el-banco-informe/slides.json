@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Tu banco puede informarle al SII **cuantas transferencias recibes**"},
+    {"type": "text", "lines": ["No es fiscalizar cada", "transferencia.", "Es cruzar datos para ver", "quien vende sin declarar."], "sub": "Regalos o aportes solidarios quedan fuera, aclaro el SII."},
+    {"type": "proof", "tag": "LA SEÑAL", "text": "Si tu negocio cobra por transferencia y **no tiene inicio de actividades**, hoy es mas facil que el SII lo note", "source": "Fuente: La Tercera, Cuenta Publica SII 2025"},
+    {"type": "proof", "tag": "LA SALIDA", "text": "Formalizarte y emitir tus boletas **no te hace mas visible al SII.** Ya eras visible", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Sabes si tus transferencias ya estan bajo la lupa?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo sobre como regularizar tu situacion."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "EXIGENCIA SII", "text": "El SII ya identifico a **188 mil RUT** por sus transferencias bancarias"},
+    {"type": "text", "lines": ["La Ley de Cumplimiento", "Tributario permite a los bancos", "reportar cuentas con muchas", "transferencias distintas."], "sub": "Mas de 50 RUT distintos al mes, o 100 en un semestre."},
+    {"type": "stat", "number": "87M", "text": "depositos suman los **188.000 RUT** detectados, por sobre **$11,2 billones**"},
+    {"type": "proof", "tag": "EL OBJETIVO", "text": "El SII busca detectar **comercio informal**: ventas cobradas por transferencia sin declarar", "source": "Fuente: La Tercera, Cuenta Publica SII 2025"},
+    {"type": "cta", "text": "Recibes pagos por transferencia y no estas formalizado?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion antes de que el banco reporte tus movimientos."}
+  ]
+}

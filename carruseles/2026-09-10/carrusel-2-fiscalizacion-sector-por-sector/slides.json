@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Hoy le toco a las **apuestas online.** El SII amplia sus controles sector por sector"},
+    {"type": "text", "lines": ["Primero fueron las", "transferencias bancarias.", "Ahora, las plataformas", "digitales extranjeras."], "sub": "El SII amplia sus mecanismos de control mes a mes."},
+    {"type": "proof", "tag": "LA LOGICA", "text": "El SII cruza datos para detectar **actividad economica sin declarar**, sea cual sea el rubro", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LA CONSECUENCIA", "text": "Cuando el SII te alcanza, puede exigir **regularizar varios años de una vez**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Prefieres ordenar tu contabilidad **antes que el SII te busque?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo ni compromiso."}
+  ]
+}

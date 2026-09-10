@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Armas tu equipo de ventas. Contratas marketing. **Y tu contabilidad, quien la lleva?**"},
+    {"type": "text", "lines": ["No es una tarea que se hace", "sola una vez al año.", "**Necesita la misma dedicacion", "que las demas areas del negocio.**"], "sub": "Improvisar en contabilidad sale mas caro que prevenir."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "El SII sigue sumando mecanismos de control, **sector por sector**, sin distinguir el tamaño del negocio", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Contratar el servicio contable **no es un gasto.** Es una decision de negocio, como cualquier otra", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres un equipo dedicado a tu contabilidad?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

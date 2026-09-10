@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "EXIGENCIA SII", "text": "El SII crea un mecanismo para que plataformas extranjeras de apuestas **declaren y paguen IVA** en Chile"},
+    {"type": "text", "lines": ["Es la Resolucion 69", "de 2026 del SII: alcanza", "a casinos y apuestas", "operados desde el extranjero."], "sub": "El SII proyecta recaudar mas de US$100 millones desde octubre."},
+    {"type": "stat", "number": "36", "unit": "meses", "text": "de IVA atrasado deben regularizar las plataformas que el SII **incorpora de oficio**"},
+    {"type": "proof", "tag": "EL DATO", "text": "Ya son **39 plataformas** inscritas de forma voluntaria, mas 10 sumadas de oficio por el SII", "source": "Fuente: Emol, 8 de septiembre de 2026"},
+    {"type": "cta", "text": "Si el SII te fiscaliza, puede exigir **años de atraso de una vez**", "button": "Escribeme por WhatsApp ->", "sub": "Mejor ordenar tu contabilidad antes, no despues."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Tienes un plan de marketing. Un plan de ventas. **Tienes un plan para tu contabilidad?**"},
+    {"type": "text", "lines": ["No es papeleo que se", "resuelve una vez al año.", "**Es una decision de negocio**", "como cualquier otra."], "sub": "Postergarla sale mas caro que ponerla al dia."},
+    {"type": "proof", "tag": "LO QUE VIMOS ESTA SEMANA", "text": "Entre normativa que cambia y el SII ampliando sus controles, **improvisar ya no es una opcion**", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Contratar el servicio contable **no es un gasto.** Es invertir en que tu negocio funcione bien", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres un equipo dedicado a tu contabilidad?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

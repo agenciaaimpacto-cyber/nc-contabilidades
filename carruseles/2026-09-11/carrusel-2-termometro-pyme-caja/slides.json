@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TERMOMETRO PYME", "text": "El **67%** de las pymes reporto caida en ventas. Y un **74%** ya pone plata de su bolsillo para operar"},
+    {"type": "text", "lines": ["Postergar el IVA o acumular", "deuda con la Tesoreria", "alivia la caja hoy.", "**Despues llegan los intereses.**"], "sub": "Datos de la comunidad PROPYME, agosto de 2026."},
+    {"type": "stat", "number": "33", "unit": "%", "text": "de las pymes ya **posterga el pago del IVA**, dos puntos mas que la medicion anterior"},
+    {"type": "proof", "tag": "EL DATO", "text": "Las deudas vigentes con la Tesoreria (TGR) llegan al **41%** de las pymes encuestadas", "source": "Fuente: Emol, Termometro Pyme, 20 de agosto de 2026"},
+    {"type": "cta", "text": "Anticipar un problema de flujo **es mas barato que arrastrar deuda tributaria**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu contabilidad antes de que se acumule."}
+  ]
+}

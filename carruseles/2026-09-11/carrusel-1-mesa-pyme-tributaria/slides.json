@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PROYECTO EN FORMACION", "text": "**Once gremios pyme** se sentaron con el Gobierno a discutir cambios tributarios. Todavia no es ley"},
+    {"type": "text", "lines": ["Achiga, Asech, Conapyme,", "Fedetur y otros siete gremios", "mas, trabajando junto a", "Hacienda y Economia."], "sub": "La mesa lleva desde junio de 2026 levantando propuestas."},
+    {"type": "stat", "number": "11", "unit": "gremios", "text": "pyme participan en la mesa de trabajo tributaria y regulatoria con el Gobierno"},
+    {"type": "proof", "tag": "EL CALENDARIO", "text": "La mesa trabaja **hasta septiembre.** El proyecto de ley recien se ingresaria **a fin de año**", "source": "Fuente: BioBioChile, junio de 2026"},
+    {"type": "cta", "text": "Mientras se define el proyecto, **tus obligaciones de hoy siguen vigentes**", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos tu situacion actual sin costo ni compromiso."}
+  ]
+}

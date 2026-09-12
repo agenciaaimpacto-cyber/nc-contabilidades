@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Si tu empresa esta **inactiva** y nunca hiciste termino de giro, el SII puede hacerlo por ti"},
+    {"type": "text", "lines": ["Sin utilidades pendientes,", "sin bienes ni deudas", "tributarias, el SII declara", "**el cierre por resolucion.**"], "sub": "Ya no hace falta que tu lo tramites primero."},
+    {"type": "stat", "number": "4", "unit": "requisitos", "text": "debe cumplir tu empresa para que el SII aplique esta **presuncion legal**"},
+    {"type": "proof", "tag": "LA BASE LEGAL", "text": "Es la Ley de Cumplimiento Tributario (Ley 21.713), que modifico el **articulo 69** del Codigo Tributario", "source": "Fuente: SII, Circular N°32 de 2025"},
+    {"type": "cta", "text": "Si tu negocio ya no opera, **hazlo tu antes de que el SII lo presuma**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a hacer el termino de giro correctamente."}
+  ]
+}

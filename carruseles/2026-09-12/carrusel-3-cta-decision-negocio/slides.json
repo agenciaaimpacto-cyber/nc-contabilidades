@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Tienes presupuesto de marketing. **Tienes presupuesto para tu contabilidad?**"},
+    {"type": "text", "lines": ["No es un tramite que se", "resuelve una vez al año.", "**Es una decision de negocio**", "como cualquier otra."], "sub": "Postergarla sale mas cara que resolverla a tiempo."},
+    {"type": "proof", "tag": "LO QUE VIMOS ESTA SEMANA", "text": "El SII amplia sus facultades y sus controles **cada mes que pasa**", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es proteger que tu negocio siga funcionando", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres revisar como esta tu contabilidad hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

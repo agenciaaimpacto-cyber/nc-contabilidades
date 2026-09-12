@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESDE MARZO DE 2026", "text": "El SII ya puede declarar el **termino de giro** de tu empresa sin que tu lo pidas"},
+    {"type": "text", "lines": ["Si dejas de declarar", "el F29 por varios meses", "seguidos, el SII puede", "**presumir que cerraste.**"], "sub": "Nueva facultad de la Ley de Cumplimiento Tributario."},
+    {"type": "stat", "number": "6", "unit": "meses", "text": "sin declarar el **F29** son la base para que el SII presuma que tu negocio dejo de operar"},
+    {"type": "proof", "tag": "LA RESOLUCION", "text": "La Resolucion Ex. N°171 del SII fija el procedimiento, vigente **desde el 1 de marzo de 2026**", "source": "Fuente: SII, Resolucion Ex. N°171"},
+    {"type": "cta", "text": "Tu termino de giro **deberia ser tu decision**, no una presuncion del SII", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos la situacion de tu empresa sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ENTRE LAS 12 CIRCULARES", "text": "Una de las circulares que prepara el SII es sobre **la rebaja de impuesto para pymes**"},
+    {"type": "text", "lines": ["La Ley de Reconstruccion", "mantiene la tasa reducida", "del Impuesto de Primera", "**Categoria para pymes.**"], "sub": "Pero falta la instruccion oficial del SII para aplicarla."},
+    {"type": "proof", "tag": "LO QUE YA SE SABE", "text": "El Consejo Tributario ya reviso **6 borradores** de circulares: 4 publicadas, 1 descartada, 1 en redaccion", "source": "Fuente: Diario Financiero"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Sin la circular del SII, **no hay forma oficial** de aplicar el beneficio en tu declaracion", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres saber si un cambio tributario **ya aplica para tu pyme?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

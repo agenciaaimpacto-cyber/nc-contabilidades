@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY PUBLICADA", "text": "La Ley de Reconstruccion Nacional **ya es ley**. Pero aun no puedes aplicar todos sus cambios"},
+    {"type": "text", "lines": ["Publicarse en el", "Diario Oficial no basta.", "El SII debe traducirla", "**en instrucciones.**"], "sub": "Cada circular fija como se aplica cada cambio."},
+    {"type": "stat", "number": "12", "unit": "circulares", "text": "y **16 resoluciones** mas prepara el SII para poner en marcha la nueva ley"},
+    {"type": "proof", "tag": "EL FILTRO", "text": "El **Consejo Tributario** revisa la legalidad de cada circular antes de que se publique", "source": "Fuente: Diario Financiero"},
+    {"type": "cta", "text": "No apliques un beneficio tributario **hasta que el SII lo confirme**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a seguir los cambios paso a paso."}
+  ]
+}

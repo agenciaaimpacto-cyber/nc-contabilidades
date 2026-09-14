@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "Y TU EMPRESA?", "text": "**465.223 declaraciones** quedaron observadas por el SII este ano"},
+    {"type": "text", "lines": ["Es cerca del **9%** de todo", "lo declarado en la", "**Operacion Renta 2026.**"], "sub": "El otro 91% paso sin problemas."},
+    {"type": "proof", "tag": "LA CAUSA MAS COMUN", "text": "Diferencias entre lo que declaras y lo que **tus boletas, facturas y movimientos bancarios** realmente respaldan", "source": "Fuente: SII, Balance Operacion Renta 2026"},
+    {"type": "proof", "tag": "LA CONSECUENCIA", "text": "Una declaracion observada significa **devolucion retenida** hasta que se aclare la diferencia", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "No quieres quedar en ese grupo **el proximo abril?**", "button": "Escribeme por WhatsApp ->", "sub": "Contabilidad al dia, todo el ano, no solo en Renta."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "BALANCE OFICIAL", "text": "El SII bajo en **12,7%** las declaraciones observadas en la Operacion Renta 2026"},
+    {"type": "text", "lines": ["Se recibieron", "**5.111.367 declaraciones:**", "3,5 millones de personas", "y 1,5 millones de empresas."], "sub": "El proceso completo tuvo resultado positivo, por segundo ano consecutivo."},
+    {"type": "stat", "number": "3,25", "unit": "billones", "text": "ya devolvio la TGR a **2.797.715 contribuyentes** que declararon Renta este ano"},
+    {"type": "proof", "tag": "POR QUE BAJO", "text": "El SII cruza cada vez mas informacion -- boletas, facturas, movimientos bancarios -- y detecta antes las **inconsistencias**", "source": "Fuente: SII, Balance Operacion Renta 2026"},
+    {"type": "cta", "text": "Tu contabilidad esta lista **para el proximo proceso?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a llegar sin sorpresas."}
+  ]
+}

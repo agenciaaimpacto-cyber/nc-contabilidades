@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESDE EL 1 DE NOVIEMBRE", "text": "El SII posterga -- pero no elimina -- las nuevas exigencias para **guias de despacho electronicas**"},
+    {"type": "text", "lines": ["Iban a regir desde mayo.", "La Resolucion Exenta N°52", "les dio **6 meses mas**", "para que te prepares."], "sub": "Nueva fecha: 1 de noviembre de 2026."},
+    {"type": "stat", "number": "6", "unit": "meses", "text": "de plazo adicional dio el SII para adaptar sistemas de facturacion electronica"},
+    {"type": "proof", "tag": "LA NORMA", "text": "Resolucion Exenta N°52, del 10 de abril de 2026, posterga la **Resolucion N°154**", "source": "Fuente: SII, Resolucion Exenta N°52"},
+    {"type": "cta", "text": "Si mueves mercaderia, noviembre **llega antes de lo que crees**", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos si tu sistema ya cumple."}
+  ]
+}

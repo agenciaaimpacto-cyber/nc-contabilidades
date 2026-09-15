@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "Y TU EMPRESA?", "text": "Tu guia de despacho, hoy, **ya tiene todo lo que el SII va a exigir?**"},
+    {"type": "text", "lines": ["Conductor y vehiculo.", "Tipo de traslado.", "Origen y destino reales.", "**Fecha y hora exactas.**"], "sub": "Todo queda ademas en un nuevo Registro del SII."},
+    {"type": "proof", "tag": "LO QUE CAMBIA", "text": "Identificacion del transportista, patente del vehiculo y **descripcion precisa** de los bienes trasladados", "source": "Fuente: SII, Resolucion Exenta N°52"},
+    {"type": "proof", "tag": "EL RIESGO DE ESPERAR", "text": "Ajustar sistemas y capacitar a quien despacha **toma semanas**, no dias", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Mejor prepararte ahora **que a fin de octubre**", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos juntos si estas al dia."}
+  ]
+}

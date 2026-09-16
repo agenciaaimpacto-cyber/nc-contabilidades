@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO SI ACABAS DE FORMALIZAR", "text": "Crear tu empresa en el RES **no es el ultimo paso.** Es el primero"},
+    {"type": "text", "lines": ["Falta el inicio de", "actividades en el SII.", "Falta elegir regimen.", "**Falta la contabilidad.**"], "sub": "Sin eso, la empresa existe en papel pero no puede operar bien."},
+    {"type": "proof", "tag": "LO QUE VIENE DESPUES", "text": "Definir el regimen tributario y empezar a emitir **boletas o facturas electronicas** desde el primer mes", "source": "SII, tramites de inicio de actividades"},
+    {"type": "proof", "tag": "EL ERROR MAS COMUN", "text": "Partir a facturar sin llevar registro ordenado **y descubrir el problema recien en el primer F29**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Formalizaste tu negocio? **Partamos bien la contabilidad**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

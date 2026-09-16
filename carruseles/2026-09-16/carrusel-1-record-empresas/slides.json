@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "RECORD HISTORICO", "text": "**120.399 empresas** se crearon en Chile en el primer semestre de 2026"},
+    {"type": "text", "lines": ["Es el mejor primer", "semestre desde que", "existe el registro", "**de empresas (2013).**"], "sub": "16.450 empresas mas que en el mismo periodo de 2025."},
+    {"type": "stat", "number": "92,2", "unit": "%", "text": "de las nuevas empresas se creo por el sistema en linea del Registro de Empresas y Sociedades"},
+    {"type": "proof", "tag": "LA CIFRA", "text": "Solo en junio se crearon **20.458 empresas**, sobre las 20 mil constituciones mensuales", "source": "Fuente: BioBioChile / Gobierno de Chile"},
+    {"type": "cta", "text": "Crear la empresa es facil. **Sostenerla en regla es otra cosa.**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a partir con la contabilidad al dia."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "EL CALENDARIO", "text": "La retencion de honorarios **no se detiene en 15,25%**"},
+    {"type": "text", "lines": ["Sube a 16% en 2027.", "Y llega a **17% en 2028.**", "Cada año se retiene", "un poco mas por boleta."], "sub": "Asi lo fijo la Ley N°21.133, desde 2019."},
+    {"type": "proof", "tag": "PARA QUE SIRVE", "text": "Esa retencion **no se pierde**: financia tu pago de renta anual y tus cotizaciones de salud y pension", "source": "Fuente: SII, Boleta de Honorarios 2026"},
+    {"type": "proof", "tag": "EL RIESGO", "text": "Sin un registro ordenado de boletas emitidas y retenidas, **la Operacion Renta se complica**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Llevemos el control de tus boletas **antes de abril**", "button": "Escribeme por WhatsApp ->", "sub": "Asi evitas sorpresas en tu declaracion de renta."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSAR", "text": "Tienes plan de ventas. Tienes plan de marketing. **Tienes plan contable?**"},
+    {"type": "text", "lines": ["La contabilidad no es", "el area que miras", "**solo cuando algo falla.**", "Es una mas del negocio."], "sub": "Igual que marketing, ventas u operaciones."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "Hasta un detalle como la retencion de una boleta **cambia cada año** por ley", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres revisar como esta tu contabilidad hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

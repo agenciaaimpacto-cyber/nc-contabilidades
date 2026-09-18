@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESDE ENERO 2026", "text": "La retencion de tu boleta de honorarios subio a **15,25%**"},
+    {"type": "text", "lines": ["Antes era 14,5%.", "Ahora se retiene", "**15,25% de cada boleta**", "que emites o recibes."], "sub": "Nuevo escalon de la Ley N°21.133."},
+    {"type": "stat", "number": "15,25", "unit": "%", "text": "es la retencion que aplica hoy a toda boleta de honorarios electronica en Chile"},
+    {"type": "proof", "tag": "LA NORMA", "text": "La Ley N°21.133 sube esta retencion **cada año desde 2019**, hasta llegar a 17% en 2028", "source": "Fuente: SII, Boleta de Honorarios 2026"},
+    {"type": "cta", "text": "Sabes cuanto te estan reteniendo realmente **cada mes?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos tus boletas de honorarios."}
+  ]
+}

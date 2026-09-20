@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOVEDAD SII", "text": "El SII quiere crear un **registro de asesores tributarios**"},
+    {"type": "text", "lines": ["Aun esta en", "conversaciones con", "los gremios.", "**No es obligatorio.**"], "sub": "Ni una exigencia vigente para ejercer como contador."},
+    {"type": "proof", "tag": "LA REUNION", "text": "El SII se junto con el **Colegio de Contadores** y gremios de abogados para definirlo", "source": "Fuente: La Tercera"},
+    {"type": "proof", "tag": "LA INQUIETUD", "text": "Los propios gremios temen que termine siendo **una regulacion de facto** de la profesion", "source": "La Tercera"},
+    {"type": "cta", "text": "Quieres saber si tu contabilidad esta al dia?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

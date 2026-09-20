@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LOS REQUISITOS", "text": "Para el registro que propone el SII, un asesor deberia tener **al menos 3 anos de experiencia**"},
+    {"type": "text", "lines": ["Titulo de contador,", "contador auditor o", "abogado.", "**Y nada pendiente con el SII.**"], "sub": "Los mismos criterios que el SII puso sobre la mesa."},
+    {"type": "stat", "number": "3", "unit": "anos", "text": "de experiencia asesorando contribuyentes en Chile pide el programa que evalua el SII"},
+    {"type": "proof", "tag": "PARA TU PYME", "text": "Elegir a quien lleva tu contabilidad **por titulo y experiencia real** no deberia depender de un registro", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Revisemos si tu contabilidad tiene el respaldo que necesitas", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

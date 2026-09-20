@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OTRA MIRADA", "text": "Si un area de tu negocio fallara, **serian ventas o marketing.** Rara vez contabilidad"},
+    {"type": "text", "lines": ["Pero un error contable", "puede costar tanto", "como perder un cliente", "**o una campana mala.**"], "sub": "Y muchas veces cuesta mas caro."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "Hasta un registro de asesores en discusion **te recuerda algo simple**: elige bien a quien te asesora", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres revisar como esta tu contabilidad hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

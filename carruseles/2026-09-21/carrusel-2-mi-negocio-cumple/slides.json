@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA HERRAMIENTA", "text": "El SII creo **Mi Negocio Cumple** para iniciar actividades sin costo y sin tramites"},
+    {"type": "text", "lines": ["Se hace online,", "sin ir al SII", "y sin necesitar", "**un contador para abrirlo.**"], "sub": "El problema viene despues, no al abrir."},
+    {"type": "stat", "number": "0", "unit": "costo", "text": "tiene iniciar actividades por Mi Negocio Cumple, segun el propio SII"},
+    {"type": "proof", "tag": "DONDE FALLAN LAS PYMES", "text": "El riesgo no es abrirlo, es dejarlo **con el giro o los datos desactualizados**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Revisemos si tu inicio de actividades sigue vigente", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

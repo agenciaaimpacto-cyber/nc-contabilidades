@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OTRA MIRADA", "text": "Invertirias en marketing sin revisar numeros. **Por que en contabilidad si?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "todas se evaluan.", "**Contabilidad tambien deberia.**"], "sub": "No es un area que se revisa sola."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "Hasta un tramite gratis como iniciar actividades **puede costarte creditos y clientes** si queda mal llevado", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres revisar como esta tu contabilidad hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

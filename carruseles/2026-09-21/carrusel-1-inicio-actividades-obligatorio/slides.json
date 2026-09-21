@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "EXIGENCIA VIGENTE", "text": "Sin **inicio de actividades** ya no puedes vender en marketplaces ni pedir un credito"},
+    {"type": "text", "lines": ["Desde el 2 de enero", "de 2026, bancos y", "plataformas deben", "**exigirlo por ley.**"], "sub": "Ley de Cumplimiento de Obligaciones Tributarias."},
+    {"type": "proof", "tag": "QUIEN LO EXIGE", "text": "Marketplaces, medios de pago, **bancos comerciales** y organismos del Estado", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "LO QUE SE PIERDE", "text": "Licitaciones, patentes municipales, **creditos y dispositivos de pago** electronico", "source": "SII"},
+    {"type": "cta", "text": "Sabes si tu inicio de actividades esta al dia?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

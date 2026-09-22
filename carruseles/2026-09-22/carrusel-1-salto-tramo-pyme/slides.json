@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "EN PREPARACION", "text": "Pasar de pyme a mediana empresa hoy significa saltar de **12,5% a 27%** de impuesto de un solo salto"},
+    {"type": "text", "lines": ["Hacienda y Economia", "afinan un nuevo", "Estatuto Pyme", "**con tramos graduales.**"], "sub": "Ingresaria al Congreso en diciembre, segun Diario Financiero."},
+    {"type": "proof", "tag": "EL PROBLEMA ACTUAL", "text": "No existe un tramo intermedio: crecer de pyme a mediana empresa **duplica el impuesto de golpe**", "source": "Fuente: Diario Financiero"},
+    {"type": "proof", "tag": "OJO", "text": "Todavia **no es un proyecto de ley** ingresado al Congreso, es una propuesta en preparacion", "source": "Diario Financiero"},
+    {"type": "cta", "text": "Sabes en que tramo esta tu empresa hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

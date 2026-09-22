@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OTRA MIRADA", "text": "Si tu negocio va a crecer de tramo, **lo sabes con anticipacion o te toma por sorpresa?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "se planifican.", "**La contabilidad tambien.**"], "sub": "No es un area que se revisa sola."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "Hasta un cambio de tramo tributario **se puede anticipar** si tu contabilidad esta ordenada", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres revisar como esta tu contabilidad hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

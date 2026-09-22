@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MIENTRAS TANTO", "text": "El nuevo Estatuto Pyme **recien se prepara.** La regla de hoy sigue siendo la de siempre"},
+    {"type": "text", "lines": ["El plan del Gobierno:", "socializarlo con gremios", "y parlamentarios antes", "**de ingresarlo en diciembre.**"], "sub": "Recien despues de despachada la Ley de Presupuesto."},
+    {"type": "stat", "number": "12,5", "unit": "%", "text": "es hoy el Impuesto de Primera Categoria del regimen Pro Pyme, sin cambios todavia"},
+    {"type": "proof", "tag": "LO QUE SI PUEDES HACER HOY", "text": "Saber exactamente **en que tramo estas** y que tan cerca del limite factura tu empresa", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Revisemos en que tramo esta tu empresa", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

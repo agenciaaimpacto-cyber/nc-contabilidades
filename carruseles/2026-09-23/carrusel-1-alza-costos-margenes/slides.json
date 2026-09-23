@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TERMOMETRO PYME", "text": "El 77% de las pymes reporta mas costos operacionales, pero solo el 17% logra subir sus precios"},
+    {"type": "text", "lines": ["La encuesta a", "2.718 pymes", "de septiembre", "**deja la brecha clara.**"], "sub": "PROPYME y DefensaDeudores.cl, via La Tercera."},
+    {"type": "stat", "number": "36", "unit": "%", "text": "de las pymes despidio personal en el ultimo mes -- **2 puntos mas** que en agosto"},
+    {"type": "proof", "tag": "POR QUE PASA", "text": "La caida de ventas fue la razon mas mencionada para los despidos, por sobre la falta de liquidez", "source": "Fuente: La Tercera / Termometro Pyme"},
+    {"type": "cta", "text": "Sabes cuanto de ese alza de costos esta absorbiendo tu negocio hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

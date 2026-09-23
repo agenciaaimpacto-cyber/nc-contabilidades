@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MISMA ENCUESTA, OTRO DATO", "text": "El 33% de las pymes sigue postergando el pago del IVA para cuadrar la caja"},
+    {"type": "text", "lines": ["Y el 73% ya esta", "poniendo plata", "propia", "**para sostener el negocio.**"], "sub": "Termometro Pyme, septiembre 2026 (La Tercera)."},
+    {"type": "proof", "tag": "OJO", "text": "Postergar el IVA es un mecanismo legitimo del SII para un mes dificil -- **el problema es cuando se vuelve la norma**", "source": "SII / Termometro Pyme"},
+    {"type": "stat", "number": "73", "unit": "%", "text": "de las pymes inyecta **recursos propios** para sostener el negocio, segun la misma medicion"},
+    {"type": "cta", "text": "Tu contabilidad te avisa antes de que llegue el aprieto de caja?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

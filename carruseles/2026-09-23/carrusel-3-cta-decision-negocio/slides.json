@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OTRA MIRADA", "text": "Si las ventas bajan, revisas marketing. **Si los margenes se achican, revisas tu contabilidad?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "se ajustan rapido.", "**La contabilidad tambien deberia.**"], "sub": "No es el area que se revisa al final."},
+    {"type": "proof", "tag": "LO QUE VIMOS HOY", "text": "El 77% de las pymes siente el alza de costos -- sin numeros claros, es dificil saber donde ajustar", "source": "Despachos revisados en este espacio"},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu contabilidad **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres revisar como esta tu contabilidad hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "BENEFICIO POCO USADO", "text": "Compraste maquinaria o vehiculos para tu pyme? Ese IVA no tiene por que quedar atrapado"},
+    {"type": "text", "lines": ["El SII permite", "recuperar el IVA", "de tu activo fijo", "**antes de que se acumule.**"], "sub": "Articulo 27 bis, Ley de IVA (D.L. 825)."},
+    {"type": "proof", "tag": "EL REQUISITO", "text": "El credito debe llevar **al menos 2 periodos tributarios seguidos** sin compensarse contra tus ventas", "source": "Fuente: SII, Guia Devolucion Art. 27 Bis"},
+    {"type": "proof", "tag": "NO ES NUEVO NI TEMPORAL", "text": "Es un mecanismo **permanente** de la Ley de IVA -- no un beneficio de emergencia que vaya a vencer", "source": "D.L. 825 de 1974"},
+    {"type": "cta", "text": "Tienes IVA de inversiones que no se ha compensado?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo ni compromiso."}
+  ]
+}

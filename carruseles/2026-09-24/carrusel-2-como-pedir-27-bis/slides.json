@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO SE PIDE", "text": "La devolucion del IVA por activo fijo no es automatica -- se solicita con un formulario especifico"},
+    {"type": "text", "lines": ["Formulario 3280,", "en la Oficina", "Virtual del SII,", "**con respaldo documental.**"], "sub": "Facturas, declaracion de renta y pagos de IVA."},
+    {"type": "proof", "tag": "OJO", "text": "El SII fiscaliza estas solicitudes con detalle -- **un respaldo incompleto puede frenar la devolucion**", "source": "Fuente: SII, Guia Devolucion Art. 27 Bis"},
+    {"type": "stat", "number": "2", "unit": "periodos", "text": "tributarios consecutivos es el minimo que exige el SII para poder solicitarla"},
+    {"type": "cta", "text": "Quieres que revisemos si tu pyme califica?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

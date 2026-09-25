@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OTRA PREGUNTA INCOMODA", "text": "Sabes cuanto vendiste este mes. **Sabes en que estado esta tu contabilidad?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "se revisan siempre.", "**La contabilidad tambien deberia.**"], "sub": "No es un tramite de una vez al ano, es otra area del negocio."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Anticipar plazos, beneficios y riesgos -- **antes de que se conviertan en un problema**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres poner tu contabilidad al dia?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

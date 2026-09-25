@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PLAZO ESTA SEMANA", "text": "Tienes local comercial, oficina o bodega propia? El **30 de septiembre** vence la tercera cuota de tus contribuciones"},
+    {"type": "text", "lines": ["La Tesoreria General", "de la Republica fija", "el plazo para el", "**miercoles 30 de septiembre.**"], "sub": "Tercera cuota de contribuciones de bienes raices no agricolas 2026."},
+    {"type": "stat", "number": "30", "unit": "sept", "text": "es el ultimo dia para pagar la tercera cuota sin recargo"},
+    {"type": "proof", "tag": "COMO SE PAGA", "text": "Con Clave Unica o Clave Tributaria en **tgr.gob.cl**, o presencial en bancos, Sencillito y CajaVecina", "source": "Fuente: Tesoreria General de la Republica (TGR)"},
+    {"type": "cta", "text": "Tu contabilidad tiene claro este plazo?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu calendario tributario completo, sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "No todas las propiedades pagan contribuciones completas -- **hay descuentos que muchos no piden**"},
+    {"type": "text", "lines": ["Si tu ingreso", "esta bajo ciertos", "topes, puedes", "**pagar menos o nada.**"], "sub": "Un beneficio de la Ley de Contribuciones, vigente para 2026."},
+    {"type": "proof", "tag": "EXENTO TOTAL", "text": "Adultos mayores con ingresos de hasta **13,5 UTA** (cerca de $11,6 millones al ano) no pagan contribuciones", "source": "Fuente: Tesoreria General de la Republica (TGR)"},
+    {"type": "proof", "tag": "50% DE DESCUENTO", "text": "Entre **13,5 y 30 UTA** (hasta cerca de $25,8 millones anuales) el descuento es del **50%**", "source": "Fuente: Tesoreria General de la Republica (TGR)"},
+    {"type": "cta", "text": "No sabes si tu propiedad o la de tu negocio califica?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisarlo antes del 30 de septiembre."}
+  ]
+}

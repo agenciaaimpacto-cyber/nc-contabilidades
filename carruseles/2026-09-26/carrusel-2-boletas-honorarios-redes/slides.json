@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "EL DATO DETRAS DE LA NORMA", "text": "Los creadores de contenido que emiten boleta de honorarios en Chile subieron fuerte -- pero siguen siendo pocos"},
+    {"type": "stat", "number": "54,4", "unit": "%", "text": "aumentaron los creadores de contenido que **emitieron boleta de honorarios** en la ultima Operacion Renta"},
+    {"type": "proof", "tag": "EL NUMERO EN CHILE", "text": "Pasaron de **285 a 440** generadores de contenido con boletas al dia, por sobre **$2.055 millones** ya declarados por esa via", "source": "Fuente: SII / La Tercera"},
+    {"type": "proof", "tag": "POR QUE IMPORTA AHORA", "text": "Con la nueva declaracion jurada, el SII **cruzara** lo que las plataformas informan con lo que tu declaras", "source": "Fuente: SII, Resolucion Exenta N°113"},
+    {"type": "cta", "text": "Te conviene ordenar tus boletas de honorarios antes de que llegue esa informacion cruzada?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo ni compromiso."}
+  ]
+}

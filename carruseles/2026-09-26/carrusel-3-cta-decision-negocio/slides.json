@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Le dedicas tiempo al marketing, a las ventas, a la operacion. **Y a tu contabilidad?**"},
+    {"type": "text", "lines": ["Ninguna area", "de tu negocio", "se maneja sola.", "**La contabilidad tampoco.**"], "sub": "Es una area mas del negocio, no un tramite de una vez al año."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Saber donde esta la plata, que plazos vienen y que exigencias nuevas te aplican -- **antes de que sea urgente**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres darle a tu contabilidad la atencion que le das al resto del negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

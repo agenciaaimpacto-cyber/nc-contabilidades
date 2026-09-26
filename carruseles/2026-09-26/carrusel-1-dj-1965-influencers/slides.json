@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NUEVA EXIGENCIA SII", "text": "Ganas plata con redes sociales o contenido digital? El SII acaba de crear una declaracion jurada para eso"},
+    {"type": "text", "lines": ["Las plataformas", "que te pagan", "**van a informar", "tus ingresos al SII.**"], "sub": "Declaracion Jurada 1965, desde la Operacion Renta 2027."},
+    {"type": "proof", "tag": "QUIEN INFORMA", "text": "Plataformas como **Sponsor, Onfayer, UGC o Arsmate** deberan reportar lo que te pagan como creador de contenido", "source": "Fuente: SII, Resolucion Exenta N°113 (31-08-2026)"},
+    {"type": "proof", "tag": "DESDE CUANDO", "text": "Aplica desde la **Operacion Renta 2027** -- es decir, sobre los ingresos que generes **desde ahora**", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Vives de las redes y no tienes tus boletas al dia?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo ni compromiso."}
+  ]
+}

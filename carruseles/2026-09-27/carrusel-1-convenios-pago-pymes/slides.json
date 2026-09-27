@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "EL DATO DE LA SEMANA", "text": "Los convenios para postergar impuestos de las pymes se multiplicaron por **4** en cinco años"},
+    {"type": "stat", "number": "307.540", "unit": "", "text": "convenios de pago tributario firmo la Tesoreria en 2025 -- record de la serie"},
+    {"type": "proof", "tag": "EL MONTO", "text": "Fueron **$2,15 billones** en 2025, casi 4 veces lo registrado en 2018", "source": "Fuente: TGR / La Tercera"},
+    {"type": "proof", "tag": "EL PESO DE LAS PYMES", "text": "Las pymes explican el **60% del monto** total de estos convenios y el **82% de los contribuyentes** acogidos", "source": "Fuente: TGR / La Tercera"},
+    {"type": "cta", "text": "Sabes si tu pyme esta usando estos convenios de mas de lo que deberia?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion tributaria sin costo ni compromiso."}
+  ]
+}

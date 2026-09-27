@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Revisas tus ventas todas las semanas. **Y tu contabilidad, cada cuanto la revisas?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "**la contabilidad es", "un area mas del negocio.**"], "sub": "No un tramite de una vez al año."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Saber donde esta la plata, que plazos vienen y que exigencias nuevas te aplican -- **antes de que sea urgente**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres darle a tu contabilidad la atencion que le das al resto del negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

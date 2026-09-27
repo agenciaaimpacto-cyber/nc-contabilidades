@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "POR QUE PASA ESTO", "text": "Cada vez mas pymes chilenas estan usando al Fisco como si fuera su banco"},
+    {"type": "text", "lines": ["Postergar impuestos", "no es un beneficio gratis.", "**Sigue generando", "intereses y reajustes.**"], "sub": "Salvo que la deuda califique para una condonacion especifica."},
+    {"type": "proof", "tag": "LA DEUDA PYME", "text": "La deuda de pymes bajo convenio paso de **$0,28 billones en 2018** a **$1,36 billones en 2025**", "source": "Fuente: TGR / La Tercera"},
+    {"type": "proof", "tag": "LA SEÑAL REAL", "text": "Llegar a pedir un convenio suele ser el aviso tardio de un problema de caja que se pudo ver **meses antes**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Prefieres anticipar tu flujo de caja antes de que se convierta en deuda con el SII?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Le pones atencion al marketing, a las ventas, a las operaciones. **Y a la contabilidad?**"},
+    {"type": "text", "lines": ["No es un area", "secundaria del negocio.", "**Es tan importante", "como las demas.**"], "sub": "Aunque no se vea todos los dias."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Anticipar plazos, exigencias y problemas de caja **antes de que se vuelvan urgentes**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres darle a tu contabilidad la atencion que le das al resto del negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "EXIGENCIA SII", "text": "Emitir la boleta ya no basta -- desde marzo tienes que **entregarla siempre**"},
+    {"type": "text", "lines": ["Resolucion Exenta N12", "del SII (2025):", "**toda venta presencial**", "debe entregar comprobante."], "sub": "Impreso o digital, sin importar el medio de pago."},
+    {"type": "stat", "number": "100%", "unit": "", "text": "de los comercios ya estan obligados -- tengan o no impresora"},
+    {"type": "proof", "tag": "EL CALENDARIO", "text": "Con impresora: copia impresa desde **mayo 2025**. Sin impresora: boleta digital desde **marzo 2026**", "source": "Fuente: SII, Resolucion Exenta N12"},
+    {"type": "cta", "text": "Tu negocio ya cumple esta exigencia en cada venta?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu proceso de venta sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE NO SE VE", "text": "No entregar la boleta parece un detalle menor. **Para el SII no lo es.**"},
+    {"type": "text", "lines": ["No es un tramite", "que se olvida.", "**Es un incumplimiento", "formal fiscalizable.**"], "sub": "Se detecta en cualquier visita o revision del SII."},
+    {"type": "proof", "tag": "LO BUENO", "text": "A diferencia de otras exigencias, esta **no requiere tramite**: es un ajuste de proceso interno", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "EN LA PRACTICA", "text": "Capacitar a quien vende, revisar el sistema de pago y confirmar que la boleta llegue al cliente **-- siempre**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres asegurarte de que tu punto de venta cumple con el SII?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

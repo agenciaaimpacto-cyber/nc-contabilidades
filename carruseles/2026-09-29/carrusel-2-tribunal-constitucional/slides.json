@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Que el Congreso apruebe una ley **no significa que ya este vigente**"},
+    {"type": "text", "lines": ["Por tener normas de", "rango organico,", "**pasa primero al", "Tribunal Constitucional.**"], "sub": "Recien despues el Presidente la puede promulgar."},
+    {"type": "proof", "tag": "EL ORDEN REAL", "text": "Congreso la despacha -> **Tribunal Constitucional revisa** -> Presidente promulga -> se publica en el Diario Oficial", "source": "Fuente: Diario Financiero"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Confundir un proyecto con una ley vigente puede llevarte a **prepararte para algo que aun no rige** -- o a no prepararte a tiempo", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres que te avisemos apenas esta reforma sea ley?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

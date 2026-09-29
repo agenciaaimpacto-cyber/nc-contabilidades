@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "REFORMA EN CAMINO", "text": "El Congreso despacho la nueva ley **antievasion** -- pero todavia no rige"},
+    {"type": "text", "lines": ["Es el proyecto de", "Cumplimiento de las", "**Obligaciones Tributarias,**", "boletin 16621-05."], "sub": "Parte del Pacto por el Crecimiento Economico."},
+    {"type": "stat", "number": "1,5%", "unit": "del PIB", "text": "es lo que el Fisco espera recaudar en regimen con esta reforma"},
+    {"type": "proof", "tag": "QUE CAMBIA", "text": "Mas trazabilidad en el comercio de bienes, nuevas medidas del SII y cambios al **secreto bancario**", "source": "Fuente: Diario Financiero"},
+    {"type": "cta", "text": "Sabes como te afecta esta reforma cuando entre en vigencia?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON EL RELOJ", "text": "Mientras mas vieja la deuda tributaria, **menos condonacion** te dan"},
+    {"type": "text", "lines": ["La rebaja de intereses", "y multas es", "**progresiva:**"], "sub": "A menor antiguedad de la deuda, mayor el beneficio."},
+    {"type": "stat", "number": "24", "unit": "meses", "text": "es el limite: las deudas mas antiguas quedan **fuera** de la condonacion ordinaria"},
+    {"type": "proof", "tag": "BONO EXTRA", "text": "Si pagas la deuda completa con **mas de un giro pendiente**, puedes sumar un 5% extra de condonacion", "source": "Fuente: SII y Tesoreria"},
+    {"type": "cta", "text": "Tienes deuda tributaria acumulada?", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos tu situacion antes de que pierda el beneficio."}
+  ]
+}

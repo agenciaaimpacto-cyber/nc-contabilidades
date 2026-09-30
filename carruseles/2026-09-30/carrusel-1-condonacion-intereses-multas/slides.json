@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "BENEFICIO VIGENTE", "text": "Tienes deuda con el SII? Puedes pagar con **hasta 75% menos** de interes y multas"},
+    {"type": "text", "lines": ["Es la politica de", "condonacion del", "**SII y la Tesoreria,**"], "sub": "Vigente desde el 18 de junio de 2026."},
+    {"type": "stat", "number": "75%", "unit": "de rebaja", "text": "en el interes incremental para quien regulariza dentro de los primeros meses de la deuda"},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "La condonacion del tramo base es **automatica** al pagar en el sitio del SII o de la Tesoreria", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Sabes cuanto podrias ahorrar si regularizas ahora?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo ni compromiso."}
+  ]
+}

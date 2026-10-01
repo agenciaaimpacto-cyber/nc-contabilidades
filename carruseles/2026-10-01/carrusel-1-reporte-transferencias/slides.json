@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Mas de **50 transferencias** al mes en tu cuenta? Tu banco se lo informa al SII"},
+    {"type": "text", "lines": ["Es la Ley de", "Cumplimiento Tributario", "**(Ley 21.713).**"], "sub": "Bancos e instituciones financieras ya estan obligados a reportar."},
+    {"type": "stat", "number": "50", "unit": "transferencias", "text": "de RUT distintos en un mes (o 100 en un semestre) activan el reporte automatico al SII"},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "El envio es **semestral**, en enero y julio -- el SII ya tiene el lote del primer semestre 2026", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Vendes por redes o cobras por transferencia sin estar formalizado?", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos tu situacion antes de que te fiscalicen."}
+  ]
+}

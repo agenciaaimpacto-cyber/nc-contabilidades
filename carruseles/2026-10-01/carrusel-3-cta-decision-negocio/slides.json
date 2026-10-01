@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Inviertes en marketing y ventas. **Y en tu contabilidad?**"},
+    {"type": "text", "lines": ["No es un tramite", "de fin de mes,", "**es otra area del negocio.**"], "sub": "Tan importante como cualquier otra."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Anticipar plazos, beneficios y exigencias del SII **antes de que se conviertan en un problema**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le quieres dar a tu contabilidad la misma atencion que al resto del negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

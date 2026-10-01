@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Puedes revisar tu mismo si el SII ya recibio tus datos bancarios"},
+    {"type": "text", "lines": ["Entra a", "**Mi SII >", "SII te informa**"], "sub": "Y busca Informacion sobre Depositos y Transferencias Bancarias."},
+    {"type": "proof", "tag": "A QUIEN APUNTA", "text": "La medida busca detectar comercio informal: ventas por redes o marketplaces **cobradas por transferencia**", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Regularizar a tiempo **no es lo mismo** que esperar a que llegue una fiscalizacion", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres saber si tu negocio deberia estar formalizado?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo ni compromiso."}
+  ]
+}

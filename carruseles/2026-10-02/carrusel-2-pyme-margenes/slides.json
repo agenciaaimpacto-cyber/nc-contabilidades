@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CIFRA DEL MES", "text": "Solo el **17%** de las pymes logra traspasar el alza de costos a sus precios"},
+    {"type": "stat", "number": "17", "unit": "%", "text": "de las mipymes chilenas pudo subir precios para compensar el alza de costos en septiembre"},
+    {"type": "text", "lines": ["El resto absorbe", "el aumento con", "**menos margen o pérdidas.**"], "sub": "Según el Termómetro Pyme de la Comunidad PROPYME, septiembre 2026."},
+    {"type": "proof", "tag": "POR QUÉ IMPORTA", "text": "Sin un registro contable al día, es casi imposible saber **en qué momento el margen dejó de alcanzar**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Sabes cual es el margen real de tu negocio **hoy?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos tus números antes de que el problema crezca."}
+  ]
+}

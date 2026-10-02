@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE VIENE", "text": "El Tribunal Constitucional le dio **luz verde** al proyecto de Cumplimiento Tributario"},
+    {"type": "text", "lines": ["Es el proyecto que", "el Congreso despachó", "**el 25 de septiembre.**"], "sub": "El TC revisó sus artículos de rango orgánico constitucional y los aprobó."},
+    {"type": "proof", "tag": "QUÉ SIGUE", "text": "El proyecto queda listo para ser **promulgado y publicado** en el Diario Oficial", "source": "Fuente: Diario Financiero"},
+    {"type": "proof", "tag": "OJO", "text": "Mientras no se publique, **todavía no es ley vigente** -- Hacienda apunta a octubre", "source": "Fuente: Diario Financiero"},
+    {"type": "cta", "text": "Quieres que te avisemos **cuando entre en vigencia?**", "button": "Escribeme por WhatsApp ->", "sub": "Te explicamos que cambia para tu empresa, sin anticipar nada que no sea ley."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Tienes claro tu marketing, tus ventas, tus operaciones. **Y tu contabilidad?**"},
+    {"type": "text", "lines": ["Son cuatro areas.", "Y las cuatro", "**sostienen el mismo", "negocio.**"], "sub": "Ninguna deberia quedar en segundo plano."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE EVITAS", "text": "Multas, plazos perdidos y sorpresas del SII que **una contabilidad al dia anticipa**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le quieres dar a tu contabilidad **el mismo peso** que al resto del negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "9 de cada 10 empresas en Chile son **micro o pequena empresa**"},
+    {"type": "text", "lines": ["Son la mayoria del", "pais -- pero tambien", "**las que mas postergan**", "su contabilidad."], "sub": "Segun el nuevo registro del INE (RUE), 2025."},
+    {"type": "proof", "tag": "EL RIESGO", "text": "El SII cruza cada vez mas informacion -- boletas, transferencias, declaraciones juradas", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Entre regularizar a tiempo o esperar una fiscalizacion, **la contabilidad ordenada es el margen**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "No dejes tu contabilidad para despues", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos tu caso, sin costo ni compromiso."}
+  ]
+}

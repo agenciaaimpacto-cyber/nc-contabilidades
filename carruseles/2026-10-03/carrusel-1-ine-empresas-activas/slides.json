@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO NUEVO", "text": "El INE identifico **1.207.333 empresas activas** en Chile durante 2025"},
+    {"type": "stat", "number": "3,9", "unit": "% alza", "text": "frente a 2024, segun el nuevo Registro Estadistico de Unidades Economicas (RUE)"},
+    {"type": "proof", "tag": "DONDE ESTAN", "text": "La Region Metropolitana concentra el **41,1%** y el Comercio lidera con el **33,6%** de las empresas activas", "source": "Fuente: INE, via CNN Chile"},
+    {"type": "proof", "tag": "EL DATO QUE IMPORTA", "text": "El **71,7%** son microempresas y el **20,1%** pequenas empresas -- mas del 90% del total", "source": "Fuente: INE, via CNN Chile"},
+    {"type": "cta", "text": "Tu empresa es parte de ese 90%? **Asegurate que su contabilidad tambien este al dia**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo ni compromiso."}
+  ]
+}

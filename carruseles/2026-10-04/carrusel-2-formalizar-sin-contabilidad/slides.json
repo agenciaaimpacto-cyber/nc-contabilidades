@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Formalizar gratis esta semana **no es el problema**"},
+    {"type": "text", "lines": ["El problema es", "formalizar y", "**dejar la contabilidad", "para despues.**"], "sub": "Ahi empiezan los plazos del SII."},
+    {"type": "proof", "tag": "LO QUE SE ACTIVA", "text": "Al formalizar nacen los plazos de **IVA, Renta y declaraciones juradas**", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Ordenar el negocio **una vez**, o tener que hacerlo **dos**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Formaliza esta semana **y parte con la contabilidad al dia**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

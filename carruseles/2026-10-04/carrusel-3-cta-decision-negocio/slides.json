@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Tienes un plan de marketing. Tienes metas de ventas. **Tienes un plan contable?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "**la contabilidad es", "otra area del negocio.**"], "sub": "No un tramite de fin de mes."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto.** Es una decision de negocio", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Anticipar plazos, beneficios y exigencias del SII **antes de que se conviertan en un problema**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le quieres dar a tu contabilidad el mismo plan que al resto del negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

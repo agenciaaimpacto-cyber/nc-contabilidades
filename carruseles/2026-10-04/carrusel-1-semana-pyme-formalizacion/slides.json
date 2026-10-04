@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ESTA SEMANA", "text": "Del **13 al 16 de octubre** hay formalizacion gratuita para pymes en todo Chile"},
+    {"type": "text", "lines": ["Mas de 200", "actividades.", "**Las 16 regiones.**"], "sub": "Semana de la Pyme 2026, Ministerio de Economia."},
+    {"type": "proof", "tag": "QUE INCLUYE", "text": "Orientacion y **formalizacion sin costo**, capacitaciones y rondas de negocio", "source": "Fuente: Ministerio de Economia"},
+    {"type": "proof", "tag": "EL DATO", "text": "Las pymes son el **98,5%** de las empresas chilenas y generan el **47%** del empleo", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Vas a formalizar esta semana? **Hazlo con la contabilidad lista desde el dia 1**", "button": "Escribeme por WhatsApp ->", "sub": "Te acompanamos en la formalizacion y lo que sigue."}
+  ]
+}

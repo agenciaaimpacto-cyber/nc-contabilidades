@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE VIENE EL PLAZO", "text": "El **30 de octubre** vence la condonacion por el sistema frontal de julio"},
+    {"type": "text", "lines": ["Si tu comuna fue", "declarada en emergencia,", "**tienes hasta esa fecha.**"], "sub": "Despues, multa e interes completos."},
+    {"type": "stat", "number": "9", "unit": "regiones", "text": "desde Atacama hasta Los Rios tienen comunas con este beneficio"},
+    {"type": "proof", "tag": "SII", "text": "La condonacion del **F29 y F50** de esos meses se aplica **automatica y en linea**, sin solicitarla", "source": "Fuente: SII"},
+    {"type": "cta", "text": "No sabes si tu comuna esta en el listado del SII?", "button": "Escribeme por WhatsApp ->", "sub": "Te revisamos tu caso antes del 30 de octubre."}
+  ]
+}

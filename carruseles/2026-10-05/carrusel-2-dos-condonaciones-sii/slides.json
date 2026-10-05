@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO SON LO MISMO", "text": "El SII tiene **dos condonaciones** distintas activas, y las dos tienen plazo"},
+    {"type": "text", "lines": ["Una es por el", "sistema frontal de julio.", "**La otra, por deuda", "tributaria antigua.**"], "sub": "Confundirlas te puede salir caro."},
+    {"type": "proof", "tag": "BENEFICIO 1", "text": "Condonacion por **emergencia**: cubre el F29 y F50 de los meses afectados, vence el **30 de octubre**", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "BENEFICIO 2", "text": "Condonacion por **deuda antigua**: hasta **75% de rebaja** en intereses, vigente desde junio", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Cual de los dos te aplica a ti?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion real en el SII."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "A TRES ANOS DE FACTOP", "text": "El SII evito el uso indebido de **$32 mil millones** en creditos fiscales en solo seis meses"},
+    {"type": "text", "lines": ["Detecto a", "**6.704 emisores**", "y **28.730 receptores**", "de facturas agresivas."], "sub": "Todo durante el primer semestre de 2026."},
+    {"type": "stat", "number": "32", "unit": "mil millones", "text": "en creditos fiscales indebidos evito el SII entre enero y junio de 2026"},
+    {"type": "proof", "tag": "SII", "text": "Al contribuyente detectado se le **restringe la emision de documentos tributarios** hasta que aclare su situacion en una oficina del SII", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Sabes si alguno de tus proveedores podria estar en esta lista?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tus facturas y proveedores antes de que te traigan un problema."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Le dedicas tiempo a marketing, a ventas... **y a tu contabilidad?**"},
+    {"type": "text", "lines": ["No es papeleo.", "**Es una decision", "de negocio**", "como cualquier otra."], "sub": "Postergarla sale mas caro que resolverla a tiempo."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es tranquilidad para tu negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Detectar a tiempo **plazos, beneficios y riesgos** del SII, antes de que se conviertan en multas", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le quieres dar a tu contabilidad la misma prioridad que al resto del negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

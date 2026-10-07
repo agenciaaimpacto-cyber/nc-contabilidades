@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE TE PIERDES", "text": "Sin inicio de actividades, tu negocio **no existe** para el sistema financiero"},
+    {"type": "text", "lines": ["No puedes pedir", "**creditos formales,**", "ni postular a", "**licitaciones publicas.**"], "sub": "Y tampoco puedes respaldar tus ventas con boleta o factura."},
+    {"type": "proof", "tag": "ACCESO A CREDITO", "text": "Los bancos y proveedores piden **inicio de actividades vigente** para evaluar un credito o una linea de pago", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LICITACIONES Y RESPALDO", "text": "Estar al dia con el SII es la base para **venderle al Estado** y para que tus clientes confien en tus documentos", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres dar el paso a la formalidad sin enredarte?", "button": "Escribeme por WhatsApp ->", "sub": "Te acompanamos en tu inicio de actividades y tu contabilidad mensual."}
+  ]
+}

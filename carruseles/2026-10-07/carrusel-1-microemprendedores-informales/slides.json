@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ENCUESTA INE", "text": "Mas de la mitad de los microemprendedores en Chile es **informal**"},
+    {"type": "text", "lines": ["Hay **1.998.178**", "personas microemprendedoras", "en el pais..."], "sub": "Pero solo 4 de cada 10 iniciaron actividades ante el SII."},
+    {"type": "stat", "number": "54,2", "unit": "%", "text": "de los microemprendedores en Chile opera de forma informal, segun la VIII Encuesta de Microemprendimiento del INE"},
+    {"type": "proof", "tag": "INE", "text": "Solo un **43,2%** ha hecho inicio de actividades ante el SII; la ganancia promedio de estos negocios es de **$828.612** al mes", "source": "Fuente: INE - Ministerio de Economia, Fomento y Turismo"},
+    {"type": "cta", "text": "Tu negocio ya esta formalizado ante el SII?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos con tu inicio de actividades y tu contabilidad desde el primer dia."}
+  ]
+}

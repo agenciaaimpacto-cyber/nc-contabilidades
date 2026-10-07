@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Cuanto tiempo inviertes en marketing y ventas... **y cuanto en tu contabilidad?**"},
+    {"type": "text", "lines": ["No es un area", "**secundaria.**", "Es tan clave como", "**cualquier otra.**"], "sub": "Postergarla no la hace desaparecer, solo la hace mas cara despues."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Orden para tomar **mejores decisiones**, y tranquilidad frente a cualquier plazo o exigencia del SII", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le vas a dar a tu contabilidad el lugar que merece?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

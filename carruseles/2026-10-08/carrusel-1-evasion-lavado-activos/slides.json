@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO SII", "text": "El SII logra multas por **$19.346 millones** contra una red de evasion tributaria"},
+    {"type": "text", "lines": ["Usaron facturas de", "**11 sociedades**", "fantasma para pedir", "devoluciones de IVA."], "sub": "La red opero entre 2017 y 2019 a traves de una empresa exportadora."},
+    {"type": "stat", "number": "9.673", "unit": "millones", "text": "de pesos fue el **perjuicio fiscal** que causo la red investigada en ese periodo"},
+    {"type": "proof", "tag": "SII", "text": "Los dos principales condenados recibieron **5 y 4 anos** de presidio, mas el decomiso de inmuebles, vehiculos y cuentas bancarias", "source": "Fuente: SII, Octavo Juzgado de Garantia de Santiago"},
+    {"type": "cta", "text": "Tu empresa esta en regla con el SII?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion contable y tributaria sin costo."}
+  ]
+}

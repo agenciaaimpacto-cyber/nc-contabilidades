@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LA OTRA CARA", "text": "Mientras unos arriesgan carcel por evadir, otros duermen tranquilos **al dia con el SII**"},
+    {"type": "text", "lines": ["Estar en regla", "**no es complejo.**", "Es constancia y", "orden mes a mes."], "sub": "Y te abre puertas que la informalidad cierra."},
+    {"type": "proof", "tag": "ACCESO A CREDITO", "text": "Bancos y proveedores exigen **documentacion al dia** para evaluar un credito o una linea de pago", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "TRANQUILIDAD", "text": "Con tus impuestos al dia, una fiscalizacion del SII **no es una amenaza**, es solo un tramite mas", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres dormir tranquilo con tu contabilidad?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a mantener tu negocio siempre en regla."}
+  ]
+}

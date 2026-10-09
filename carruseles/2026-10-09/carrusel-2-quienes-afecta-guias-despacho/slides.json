@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "A QUIÉN AFECTA", "text": "Si tu negocio **despacha mercadería**, esta exigencia es para ti"},
+    {"type": "text", "lines": ["Distribuidores,", "manufactura y retail", "con reparto propio", "**deben prepararse ya.**"], "sub": "No hay que esperar al 31 de octubre para revisar el sistema."},
+    {"type": "stat", "number": "6", "unit": "meses", "text": "de plazo extra dio el SII para que las empresas se adapten a la nueva exigencia"},
+    {"type": "proof", "tag": "RECOMENDACIÓN", "text": "Conviene revisar **ahora** con tu proveedor de facturación electrónica si el sistema ya está preparado", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres revisar tu situación antes de noviembre?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a llegar al día 1 sin sorpresas."}
+  ]
+}

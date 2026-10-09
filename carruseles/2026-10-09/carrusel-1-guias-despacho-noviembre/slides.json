@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NUEVA EXIGENCIA SII", "text": "Desde el **1 de noviembre** cambian las reglas para guías de despacho y facturas de traslado"},
+    {"type": "text", "lines": ["La Resolución N°52", "postergó la entrada", "en vigencia **seis meses,**", "de mayo a noviembre."], "sub": "Resolución Exenta N°52, publicada el 10 de abril de 2026."},
+    {"type": "proof", "tag": "QUÉ CAMBIA", "text": "Ahora se exige **origen y destino**, identificación del chofer y del vehículo en cada traslado de bienes", "source": "Fuente: SII, Resolución Exenta N°52/2026"},
+    {"type": "proof", "tag": "OJO CON ESTO", "text": "Las sanciones por incumplimiento se aplican **desde el 1 de noviembre**, sin más plazo", "source": "Fuente: SII, Resolución Exenta N°52/2026"},
+    {"type": "cta", "text": "Tu sistema de facturación ya está listo?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos si tu empresa cumple con la nueva exigencia."}
+  ]
+}

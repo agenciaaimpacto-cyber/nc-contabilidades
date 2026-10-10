@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Inviertes en marketing, en ventas... **y en tu contabilidad?**"},
+    {"type": "text", "lines": ["Todas las areas", "de tu negocio importan.", "La contabilidad **no es", "la excepcion.**"], "sub": "Dejarla para despues sale mas caro que ponerla al dia."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Orden para decidir mejor, y **menos sorpresas** frente al SII", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Listo para poner tu contabilidad al dia?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

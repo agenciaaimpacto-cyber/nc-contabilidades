@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CIFRA DEL MES", "text": "La UTM de octubre subio a **$72.151**"},
+    {"type": "text", "lines": ["Es la unidad que el SII", "usa para calcular", "**multas y tramos**", "tributarios."], "sub": "Fuente: SII, Circular N°37 de 2026."},
+    {"type": "stat", "number": "3,44", "unit": "%", "text": "es el alza acumulada de la UTM en lo que va de 2026"},
+    {"type": "proof", "tag": "OJO CON ESTO", "text": "Si tienes una **multa o pago pendiente en UTM**, cada mes que pasa te sale mas caro en pesos", "source": "Fuente: SII, Circular N°37/2026"},
+    {"type": "cta", "text": "Sabes como te afecta la UTM este mes?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion tributaria sin costo."}
+  ]
+}

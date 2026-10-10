@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA QUE SIRVE", "text": "Lo que se calcula en **UTM** y puede afectar a tu pyme"},
+    {"type": "text", "lines": ["No es solo un numero", "de referencia:", "**determina montos reales**", "que paga tu empresa."], "sub": "Se actualiza cada mes segun la variacion del IPC."},
+    {"type": "proof", "tag": "MULTAS SII", "text": "Las multas tributarias se expresan en **UTM**, no en un monto fijo de pesos", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "TOPES Y REGIMENES", "text": "Varios topes de ingreso de los regimenes tributarios de pymes tambien se miden en UTM", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Quieres entender como te afecta a ti?", "button": "Escribeme por WhatsApp ->", "sub": "Te explicamos tu caso en especifico."}
+  ]
+}

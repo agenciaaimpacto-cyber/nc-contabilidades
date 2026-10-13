@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Tienes plan de **marketing**, plan de **ventas**... y tu contabilidad?"},
+    {"type": "text", "lines": ["Cada area de tu negocio", "tiene un plan.", "**La contabilidad", "tambien deberia tenerlo.**"], "sub": "No es el area que sobra cuando el presupuesto aprieta."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Claridad para decidir, y **menos sorpresas** frente al SII", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Listo para poner tu contabilidad al dia?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

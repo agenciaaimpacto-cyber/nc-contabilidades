@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El SII ya tiene un **certificado** que acredita que estas al dia"},
+    {"type": "text", "lines": ["Lo creo la", "**Resolucion Exenta N168**", "del SII."], "sub": "Acredita el cumplimiento de tus obligaciones tributarias, articulo 68 del Codigo Tributario."},
+    {"type": "proof", "tag": "POR QUE EXISTE", "text": "Se dicta en el marco de la **Ley de Cumplimiento de las Obligaciones Tributarias**, que amplio las facultades de fiscalizacion del SII", "source": "Fuente: SII, Resolucion Exenta N168"},
+    {"type": "proof", "tag": "PARA QUE SIRVE", "text": "Es un respaldo formal frente a **bancos, plataformas de venta online y licitaciones**", "source": "Fuente: SII, Resolucion Exenta N168"},
+    {"type": "cta", "text": "Sabes si tu pyme podria **obtenerlo hoy?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion tributaria sin costo."}
+  ]
+}

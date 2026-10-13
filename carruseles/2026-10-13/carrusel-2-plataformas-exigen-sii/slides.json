@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "VENDES ONLINE?", "text": "Vender por plataformas digitales ya **exige** probar que estas al dia con el SII"},
+    {"type": "text", "lines": ["Plataformas de intermediacion", "y medios de pago electronico", "**deben verificar** tu situacion tributaria."], "sub": "Parte de las nuevas facultades de fiscalizacion del SII."},
+    {"type": "proof", "tag": "LA BASE LEGAL", "text": "Articulo 68 del **Codigo Tributario**, inciso duodecimo", "source": "Fuente: SII, Resolucion Exenta N168"},
+    {"type": "proof", "tag": "EL RIESGO", "text": "Sin inicio de actividades ni declaraciones al dia, puedes quedar **fuera de estos circuitos de venta**", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tu pyme esta **lista para esto?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a dejar tu situacion tributaria en regla."}
+  ]
+}

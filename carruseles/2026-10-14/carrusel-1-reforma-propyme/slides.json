@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PROYECTO DE LEY", "text": "El Gobierno anuncio **2 proyectos de ley** para pymes: todavia no son ley"},
+    {"type": "text", "lines": ["Buscan simplificar el", "sistema tributario y mejorar", "**la liquidez de tu pyme.**"], "sub": "Anunciados el 13 de octubre de 2026, aun no ingresan al Congreso."},
+    {"type": "proof", "tag": "PROYECTO 1", "text": "Simplificar el sistema tributario y facilitar la **formalizacion** de micro y pequenas empresas", "source": "Fuente: Emol, 13 oct 2026"},
+    {"type": "proof", "tag": "PROYECTO 2", "text": "Mejorar la **liquidez** de las pymes y el pago oportuno de facturas", "source": "Fuente: Emol, 13 oct 2026"},
+    {"type": "cta", "text": "Quieres saber como **te afectaria?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a seguir que aplica a tu empresa."}
+  ]
+}

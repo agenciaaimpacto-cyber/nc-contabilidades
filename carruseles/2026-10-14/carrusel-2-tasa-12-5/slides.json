@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "REGIMEN PRO PYME", "text": "El Gobierno confirmo que la tasa seguiria en **12,5%**"},
+    {"type": "stat", "number": "12,5", "unit": "%", "text": "es la tasa de **Primera Categoria** que el Ejecutivo anuncio mantener para el regimen Pro Pyme"},
+    {"type": "text", "lines": ["Es parte del mismo", "paquete de proyectos", "**anunciado el 13 de octubre.**"], "sub": "Al no haber ingresado al Congreso, nada de esto rige todavia."},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Hoy existe incertidumbre por el alza gradual hacia el **regimen general**", "source": "Fuente: Emol, 13 oct 2026"},
+    {"type": "cta", "text": "Sabes en que regimen tributario **esta tu pyme?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion tributaria sin costo."}
+  ]
+}

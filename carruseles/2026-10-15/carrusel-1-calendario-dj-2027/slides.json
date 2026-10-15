@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El SII ya fijo el calendario de declaraciones juradas para el **Año Tributario 2027**"},
+    {"type": "stat", "number": "02", "unit": "oct", "text": "el SII publico la **Resolucion Exenta N°135**, que fija esos vencimientos"},
+    {"type": "text", "lines": ["Antecede a la", "Operacion Renta,", "**que se declara en abril.**"], "sub": "Asi, quedan meses de anticipacion para ordenar la informacion."},
+    {"type": "proof", "tag": "EL AÑO PASADO", "text": "La resolucion equivalente (N°123) fijo vencimientos entre el **1 de marzo y el 30 de junio de 2026**", "source": "Fuente: SII, Resolucion Exenta N°135, 2026"},
+    {"type": "cta", "text": "Sabes que declaraciones juradas te corresponden?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a planificarlas con tiempo."}
+  ]
+}

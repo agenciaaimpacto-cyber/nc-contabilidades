@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Faltan meses para la Operacion Renta 2027. Por que revisarlo **hoy?**"},
+    {"type": "text", "lines": ["El SII ya fijo el calendario", "de declaraciones juradas.", "**Ordenar la informacion antes", "evita la carrera de ultima hora.**"], "sub": "Boletas de honorarios, remuneraciones, inversiones, operaciones con terceros."},
+    {"type": "proof", "tag": "LO QUE EVITA", "text": "Declarar fuera de plazo ante el SII genera **multas y reajustes**", "source": "Fuente: SII, Calendario Tributario"},
+    {"type": "proof", "tag": "LO QUE GANA TU PYME", "text": "Mas tiempo para revisar cada declaracion jurada **sin apuro**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres partir a ordenar tu informacion **desde ya?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo."}
+  ]
+}

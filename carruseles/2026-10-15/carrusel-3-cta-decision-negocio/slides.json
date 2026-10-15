@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Si inviertes en marketing sin pensarlo dos veces, por que **no en tu contabilidad?**"},
+    {"type": "text", "lines": ["Marketing, ventas, operaciones:", "cada area recibe atencion.", "**La contabilidad merece", "la misma prioridad.**"], "sub": "No es el area que se deja para despues."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Menos sorpresas frente al SII y **mas claridad** para decidir", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Listo para darle a tu contabilidad **el lugar que merece?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

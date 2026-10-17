@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Por que el SII le devuelve la plata **mas rapido** a unos que a otros?"},
+    {"type": "text", "lines": ["No es suerte.", "Es orden.", "**Declarar completo y a tiempo", "acelera la revision del SII.**"], "sub": "Con informacion clara, el SII aprueba la devolucion casi de inmediato."},
+    {"type": "proof", "tag": "LO QUE PASO EN ABRIL", "text": "El 93% de quienes declararon en los primeros 8 dias recibio devolucion anticipada", "source": "Fuente: Emol, 20 de abril de 2026"},
+    {"type": "proof", "tag": "LO QUE GANA TU PYME", "text": "Esa plata puede llegar **semanas antes** si tu contabilidad esta al dia", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres dejar de ser de los **ultimos en declarar?**", "button": "Escribeme por WhatsApp ->", "sub": "Ordenamos tu contabilidad durante todo el año."}
+  ]
+}

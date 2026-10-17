@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El SII aprobo la devolucion anticipada a **988.933** contribuyentes"},
+    {"type": "stat", "number": "93", "unit": "%", "text": "de los **1.063.066** formularios presentados entre el 1 y el 8 de abril fueron autorizados"},
+    {"type": "text", "lines": ["Las solicitudes superaron", "los $319.000 millones.", "**El SII aprobo cerca del 77%,", "mas de $247.000 millones.**"], "sub": "Pago desde el 29 de abril por transferencia."},
+    {"type": "proof", "tag": "OPERACION RENTA 2026", "text": "Fue la primera etapa del proceso, con declaraciones presentadas en los primeros 8 dias de abril", "source": "Fuente: Emol, 20 de abril de 2026"},
+    {"type": "cta", "text": "Quieres que tu proxima declaracion sea de las **primeras en pagarse?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a declarar temprano y sin errores."}
+  ]
+}

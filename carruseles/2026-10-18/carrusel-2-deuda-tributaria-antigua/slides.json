@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Una deuda tributaria **de hace 5 años** puede seguir frenando tu negocio hoy"},
+    {"type": "text", "lines": ["No se borra sola.", "**Sigue ahi hasta", "que se regulariza.**"], "sub": "Y mientras existe, puede afectar certificados, creditos y tramites ante el SII."},
+    {"type": "proof", "tag": "LO QUE PASA SI LA DEJAS", "text": "Un historial con deudas o incumplimientos pendientes **complica licitaciones y acceso a financiamiento**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS AL REGULARIZAR", "text": "Una situacion tributaria al dia es la base para **pedir credito, licitar y crecer** sin sobresaltos", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Hace cuanto no revisas **tu situacion con el SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso y vemos como regularizarlo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El SII amplio el plazo para **900.000** contribuyentes con deudas del Prestamo Solidario"},
+    {"type": "stat", "number": "30", "unit": "nov", "text": "es la nueva fecha limite para regularizar las cuotas pendientes del beneficio de 2020 y 2021"},
+    {"type": "text", "lines": ["El plazo original", "vencia el 30 de agosto.", "**El SII lo corrio para dar", "mas tiempo a quienes aun deben.**"], "sub": "El tramite se hace en linea, revisando la propuesta del Formulario 22."},
+    {"type": "proof", "tag": "SII, 20 DE AGOSTO DE 2026", "text": "El beneficio esta pensado para contribuyentes de menores ingresos que todavia no saldan su deuda", "source": "Fuente: sii.cl"},
+    {"type": "cta", "text": "Tienes deudas o tramites tributarios **pendientes?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion con el SII sin costo."}
+  ]
+}

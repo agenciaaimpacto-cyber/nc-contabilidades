@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DEDECON", "text": "Las pymes **recien formalizadas** son las que mas dudas tributarias tienen"},
+    {"type": "text", "lines": ["Un estudio de la Defensoria", "del Contribuyente lo confirma:", "**dependen mas de terceros**", "para cumplir con el SII."], "sub": "Mientras menos tiempo lleva una empresa formalizada, mayor es la brecha de conocimiento tributario."},
+    {"type": "proof", "tag": "LO QUE AYUDA A CERRAR ESA BRECHA", "text": "Entender tus obligaciones **antes** de que se conviertan en multas o fiscalizaciones", "source": "Fuente: estudio Dedecon sobre pymes formalizadas, 2026"},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Una asesoria puntual orienta. **Un contador permanente** evita que el error se repita cada mes", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Tu pyme recien se formalizo y **tiene dudas con el SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Te acompañamos desde el primer mes, no solo cuando hay un problema."}
+  ]
+}

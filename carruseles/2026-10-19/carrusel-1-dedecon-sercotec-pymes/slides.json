@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DEDECON Y SERCOTEC", "text": "Hay un nuevo canal **gratuito** para resolver dudas tributarias de tu pyme"},
+    {"type": "text", "lines": ["La Defensoria del Contribuyente", "y Sercotec firmaron un", "**convenio de colaboracion.**"], "sub": "Se apoya en los 62 Centros de Desarrollo de Negocios de Sercotec en todo Chile."},
+    {"type": "proof", "tag": "TRES LINEAS DE TRABAJO", "text": "Talleres de educacion tributaria y asesores capacitados para **detectar a tiempo** problemas con el SII", "source": "Fuente: comunicado Dedecon y Sercotec, octubre 2026"},
+    {"type": "proof", "tag": "RICARDO PIZARRO, DEFENSOR NACIONAL DEL CONTRIBUYENTE", "text": "\"Esta alianza nos permitira llegar a mas emprendedores y **acompañarlos** cuando enfrenten dificultades\"", "source": "Fuente: comunicado Dedecon y Sercotec"},
+    {"type": "cta", "text": "Tu pyme ya sabe donde pedir **ayuda tributaria?**", "button": "Escribeme por WhatsApp ->", "sub": "Te orientamos y llevamos tu contabilidad al dia, todo el año."}
+  ]
+}

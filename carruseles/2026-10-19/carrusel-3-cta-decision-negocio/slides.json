@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Le pones **meta y presupuesto** a tu marketing. Por que no a tu contabilidad?"},
+    {"type": "text", "lines": ["Marketing, ventas, operaciones:", "cada area de tu negocio", "**tiene seguimiento y estrategia.**"], "sub": "La contabilidad no deberia ser la excepcion ni quedar para ultima hora."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Orden para tomar decisiones, y **menos sorpresas** frente al SII", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le damos a tu contabilidad la **misma seriedad** que a tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

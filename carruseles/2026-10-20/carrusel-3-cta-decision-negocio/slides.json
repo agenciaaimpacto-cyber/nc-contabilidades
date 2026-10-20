@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Tu negocio tiene estrategia de marketing. Tiene **estrategia contable?**"},
+    {"type": "text", "lines": ["Marketing, ventas, operaciones:", "a cada area le dedicas tiempo", "**y presupuesto.**"], "sub": "La contabilidad no deberia ser la unica area sin seguimiento."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Orden para decidir a tiempo, y **menos sorpresas** frente al SII o la Tesoreria", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad la **misma seriedad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

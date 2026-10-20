@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TESORERIA GENERAL DE LA REPUBLICA", "text": "Tu pyme tiene deuda tributaria atrasada? Ahora puedes repactarla hasta en **48 cuotas**"},
+    {"type": "text", "lines": ["Tras la Ley de Reconstruccion", "Nacional, la TGR abrio un", "**convenio especial** para deudas", "en mora al 31 de diciembre 2025."], "sub": "Aplica a mipymes y personas naturales con deudas tributarias atrasadas."},
+    {"type": "proof", "tag": "SI PAGAS EN CUOTAS", "text": "Pie inicial de **10% del capital** y el resto en hasta 48 cuotas, con **95% de descuento en intereses** y 75% en multas", "source": "Fuente: TGR, octubre 2026"},
+    {"type": "proof", "tag": "SI PAGAS AL CONTADO", "text": "Condonacion del **100% de los intereses** y 80% de las multas por la deuda en mora", "source": "Fuente: TGR, octubre 2026"},
+    {"type": "cta", "text": "Tu empresa arrastra deuda con el **SII o la Tesoreria?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso y vemos si te conviene este convenio."}
+  ]
+}

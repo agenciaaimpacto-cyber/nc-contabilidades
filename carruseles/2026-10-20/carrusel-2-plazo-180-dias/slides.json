@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON LA LETRA CHICA", "text": "El convenio de la Tesoreria no dura para siempre: son **180 dias corridos**"},
+    {"type": "text", "lines": ["La ventana es transitoria", "y **sin prorroga**, contada desde", "la publicacion de la Ley de", "Reconstruccion Nacional."], "sub": "Maximo 3 convenios de este tipo por contribuyente."},
+    {"type": "proof", "tag": "SI TE ATRASAS EN UNA CUOTA", "text": "El convenio **caduca automaticamente** y se reactivan los intereses y multas originales", "source": "Fuente: TGR, octubre 2026"},
+    {"type": "proof", "tag": "ANTES DE FIRMAR", "text": "Evalua bien tu flujo de caja -- repactar **no resuelve** el problema de fondo si no hay orden contable detras", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres saber si te conviene **repactar o regularizar distinto?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a decidir con tu situacion real, no a ciegas."}
+  ]
+}

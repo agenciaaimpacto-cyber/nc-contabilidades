@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "YA NO ES PROYECTO", "text": "La megarreforma de Kast se publico como **Ley 21.850** este 17 de octubre"},
+    {"type": "text", "lines": ["La Ley de Reconstruccion", "Nacional y Desarrollo", "Economico y Social ya fue", "**promulgada y publicada.**"], "sub": "El Presidente la firmo el 9 de octubre; se publico en el Diario Oficial el 17."},
+    {"type": "proof", "tag": "DESDE EL 1 DE NOVIEMBRE", "text": "Entran en vigencia 4 medidas: credito tributario para exportadores, baja de la **tasa PPM Pyme a 0,23%**, fiscalizacion cruzada del SII y cambios al Sence", "source": "Fuente: Emol, 17 de octubre de 2026"},
+    {"type": "proof", "tag": "LO QUE VIENE DESPUES", "text": "La baja del impuesto de Primera Categoria (de 27% a 23%) y la invariabilidad tributaria **recien parten en 2027**", "source": "Fuente: Emol, 17 de octubre de 2026"},
+    {"type": "cta", "text": "Sabes si alguna de estas medidas **aplica a tu pyme?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso antes de que entren en vigencia."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TIENES PYME", "text": "Desde el **1 de noviembre** baja la tasa PPM del Regimen Pyme"},
+    {"type": "text", "lines": ["El PPM (pago provisional", "mensual) bajara de", "**0,25% a 0,23%** sobre", "las ventas del mes."], "sub": "Es una de las 4 medidas que parten con la Ley 21.850."},
+    {"type": "proof", "tag": "OJO CON LA LETRA CHICA", "text": "La contralora Dorothy Perez advirtio que el texto final **mantiene articulos** que el Tribunal Constitucional ya habia declarado inconstitucionales", "source": "Fuente: Emol, 17 de octubre de 2026"},
+    {"type": "proof", "tag": "LO QUE IMPORTA HOY", "text": "Antes de que se aplique, hay que tener el **PPM del mes anterior** bien declarado -- la rebaja no corrige errores previos", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Tu Regimen Pyme esta **al dia con el SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion antes de que entre en vigencia el cambio."}
+  ]
+}

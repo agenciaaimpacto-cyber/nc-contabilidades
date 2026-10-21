@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Cuando cambia una ley tributaria, **tu negocio se entera a tiempo?**"},
+    {"type": "text", "lines": ["Marketing, ventas, operaciones:", "a esas areas les haces", "**seguimiento constante.**"], "sub": "La contabilidad deberia tener el mismo seguimiento."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Te enteras de los cambios que te afectan **antes** de que entren en vigencia, no despues", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad la **misma seriedad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

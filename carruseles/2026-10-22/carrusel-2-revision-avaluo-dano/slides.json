@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI NO TE LLEGO AUTOMATICO", "text": "Puedes pedir una **revision del avaluo fiscal** de tu propiedad danada"},
+    {"type": "text", "lines": ["La rebaja automatica de", "contribuciones no cubre todos", "**los casos de dano.**"], "sub": "El SII permite solicitar la revision presentando los antecedentes del dano."},
+    {"type": "proof", "tag": "QUE SIRVE DE ANTECEDENTE", "text": "Fotos, informes o certificados que **acrediten la afectacion** del inmueble por el evento", "source": "Fuente: Emol, 20 de octubre de 2026"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Una rebaja de contribuciones **que no se reclama a tiempo**, es una rebaja que simplemente no llega", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres revisar si tu negocio **puede pedir esta revision?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

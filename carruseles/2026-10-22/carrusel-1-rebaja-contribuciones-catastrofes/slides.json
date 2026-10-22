@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "Tu local o bodega sufrio dano por incendio, inundacion o temporal este 2026?"},
+    {"type": "text", "lines": ["El SII anuncio una rebaja", "del impuesto territorial", "**para propiedades danadas", "por catastrofes naturales.**"], "sub": "Aplica al segundo semestre de 2026, en proporcion al dano."},
+    {"type": "proof", "tag": "COMO OPERA", "text": "Es **automatica** para los sectores que organismos competentes ya informaron como afectados, o cuando el SII puede acreditar el dano", "source": "Fuente: Emol, 20 de octubre de 2026"},
+    {"type": "proof", "tag": "LA BASE LEGAL", "text": "El beneficio se aplica segun la **Resolucion Exenta N22 de 2024** del SII", "source": "Fuente: Emol, 20 de octubre de 2026"},
+    {"type": "cta", "text": "Sabes si el inmueble de tu negocio **entra en este beneficio?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

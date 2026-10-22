@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Le dedicas tiempo a marketing, a ventas... y a tu contabilidad?"},
+    {"type": "text", "lines": ["Cada area de tu negocio", "recibe atencion constante.", "**Tu contabilidad deberia", "tener el mismo trato.**"], "sub": "No es un detalle administrativo, es parte de la operacion."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Te enteras a tiempo de beneficios, plazos y exigencias que **afectan directamente tu bolsillo**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad la **misma seriedad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

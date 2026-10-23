@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON EL PLAZO", "text": "La ventana para pagar solo 10% por utilidades acumuladas dura solo 8 meses"},
+    {"type": "stat", "number": "8", "unit": "meses", "text": "es el plazo que fijo la ley para optar al **impuesto unico del 10%**"},
+    {"type": "proof", "tag": "SI TIENES PYME", "text": "El SII identifica unos **US$2.861 millones** en utilidades acumuladas bajo el regimen Pro Pyme a nivel pais", "source": "Fuente: SII, 21 de octubre de 2026"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "El plazo corre **desde la publicacion de la ley**, no desde que decidas revisarlo", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Revisamos si te conviene **acogerte antes de que cierre?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

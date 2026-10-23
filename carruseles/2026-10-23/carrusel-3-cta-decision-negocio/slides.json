@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Cuanto hace que no revisas tu situacion contable a fondo?"},
+    {"type": "text", "lines": ["Le pones atencion a marketing,", "a ventas, a operaciones...", "**y a tu contabilidad", "le toca el ultimo lugar?**"], "sub": "Es la misma area de negocio, solo que menos visible."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Te enteras a tiempo de beneficios, plazos y exigencias que **afectan directamente tu bolsillo**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **la misma seriedad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

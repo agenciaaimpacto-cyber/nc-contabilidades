@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "Tu empresa tiene utilidades acumuladas de anos anteriores que nunca tributaron?"},
+    {"type": "text", "lines": ["Desde el 21 de octubre", "ya puedes pagar solo", "**10% para regularizarlas**", "en vez de la tasa normal."], "sub": "Es un impuesto unico, opcional y transitorio."},
+    {"type": "proof", "tag": "QUE CUBRE", "text": "El Fondo de Utilidades Reinvertidas, el Saldo Total de Utilidades Tributables y los **retiros en exceso**", "source": "Fuente: SII, 21 de octubre de 2026"},
+    {"type": "proof", "tag": "LA BASE LEGAL", "text": "Nace de la Ley N21.850, Ley de Reconstruccion Nacional, publicada el **17 de octubre de 2026**", "source": "Fuente: SII, 21 de octubre de 2026"},
+    {"type": "cta", "text": "Sabes si tu empresa **tiene saldos pendientes de este tipo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

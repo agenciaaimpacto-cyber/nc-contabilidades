@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Le dedicas tiempo a marketing y ventas... y a tu contabilidad?"},
+    {"type": "text", "lines": ["Revisar tu contabilidad", "no deberia ser lo ultimo", "**que miras en tu negocio,", "sino una de las primeras.**"], "sub": "Es una area mas de tu empresa, no un tramite aparte."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE EVITAS", "text": "Multas, plazos vencidos y sorpresas del SII que **se previenen revisando a tiempo**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **la misma prioridad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

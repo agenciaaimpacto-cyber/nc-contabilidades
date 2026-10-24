@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "Tienes cuentas o inversiones en el exterior que no has declarado?"},
+    {"type": "text", "lines": ["El SII cruzo datos con", "otros paises y ya elige", "**33 contribuyentes**", "para fiscalizacion profunda."], "sub": "Por pagos no declarados en sus cuentas internacionales."},
+    {"type": "stat", "number": "144.388", "unit": "titulares", "text": "de cuentas en el exterior fueron identificados por el **cruce de informacion**"},
+    {"type": "proof", "tag": "COMO LO SABE", "text": "Cada septiembre el SII recibe los datos del Common Reporting Standard, el intercambio automatico entre paises", "source": "Fuente: SII, 21 de octubre de 2026"},
+    {"type": "cta", "text": "Sabes si tu informacion esta **al dia con el SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

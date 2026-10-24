@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "US$3.270 millones en cuentas en el exterior no fueron declarados al SII"},
+    {"type": "proof", "tag": "LA CIFRA", "text": "Son **33 contribuyentes** los que el SII ya selecciono para un analisis mas profundo", "source": "Fuente: SII, 21 de octubre de 2026"},
+    {"type": "proof", "tag": "YA HUBO AVISO", "text": "El SII notifico de forma preventiva a **8.700 contribuyentes** durante la Operacion Renta 2026", "source": "Fuente: SII, 21 de octubre de 2026"},
+    {"type": "proof", "tag": "LA SALIDA", "text": "Existe un regimen de regularizacion voluntaria: **10%**, o **7%** si repatrias los fondos y los mantienes invertidos en Chile", "source": "Fuente: SII, 21 de octubre de 2026"},
+    {"type": "cta", "text": "Mejor evaluarlo ahora que **esperar la notificacion del SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

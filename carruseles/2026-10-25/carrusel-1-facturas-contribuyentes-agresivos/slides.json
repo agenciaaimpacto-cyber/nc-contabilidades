@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El SII evito el uso indebido de **$32.000 millones** en creditos fiscales"},
+    {"type": "text", "lines": ["Fue durante el primer", "semestre de 2026, al", "**restringir facturas**", "a contribuyentes agresivos."], "sub": "Asi se llama a quienes inician actividades con datos inconsistentes o no declaran todas sus operaciones."},
+    {"type": "stat", "number": "2.183", "unit": "casos", "text": "fueron cerrados en fiscalizacion durante el periodo"},
+    {"type": "proof", "tag": "EL DETALLE", "text": "Entre ellos, **289 auditorias** y **1.904 revisiones** de cumplimiento tributario", "source": "Fuente: SII, 5 de octubre de 2026"},
+    {"type": "cta", "text": "Sabes si tus propios documentos **estan en orden?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

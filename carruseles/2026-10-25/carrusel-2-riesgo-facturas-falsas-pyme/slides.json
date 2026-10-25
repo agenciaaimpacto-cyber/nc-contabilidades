@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Podrias perder tu credito fiscal sin saberlo"},
+    {"type": "text", "lines": ["Si recibes una factura", "de un proveedor con", "**comportamiento tributario", "agresivo,** el SII la rechaza."], "sub": "Y el credito del IVA que esperabas usar, se pierde."},
+    {"type": "proof", "tag": "QUIEN CAE AHI", "text": "Contribuyentes que inician actividades con datos **inconsistentes** o que no declaran todas sus operaciones", "source": "Fuente: SII, 5 de octubre de 2026"},
+    {"type": "proof", "tag": "LA PREVENCION", "text": "Verificar la situacion tributaria de un proveedor **antes de operar con el** evita el problema", "source": "Fuente: SII, 5 de octubre de 2026"},
+    {"type": "cta", "text": "Quieres revisar **tus proveedores y tus documentos?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a mantener todo en regla."}
+  ]
+}

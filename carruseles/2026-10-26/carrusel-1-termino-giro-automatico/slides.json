@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El SII puede cerrar tu empresa **por ti** sin que lo pidas"},
+    {"type": "text", "lines": ["Es la Resolucion", "Exenta N 117, del", "**2 de septiembre", "de 2026.**"], "sub": "Declara el termino de giro de contribuyentes que acumulan periodos sin operaciones."},
+    {"type": "stat", "number": "36", "unit": "periodos", "text": "tributarios consecutivos sin operaciones activan la presuncion de cierre del giro"},
+    {"type": "proof", "tag": "LO IMPORTANTE", "text": "Es una presuncion **simplemente legal**: admite prueba en contrario si tu empresa sigue operando", "source": "Fuente: SII, Resolucion Exenta N 117 de 2026"},
+    {"type": "cta", "text": "Sabes si tu RUT podria estar en una **nomina del SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Si tu empresa esta inactiva, el SII puede cerrarla por ti"},
+    {"type": "text", "lines": ["No hacer el", "termino de giro", "**a tiempo** tiene", "un costo."], "sub": "El plazo normal es de 2 meses desde que dejaste de operar, segun el Codigo Tributario."},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Hacerlo tu **evita sorpresas**; dejar que el SII lo declare de oficio puede dejar diferencias sin resolver", "source": "Fuente: SII, articulo 69 del Codigo Tributario"},
+    {"type": "proof", "tag": "QUE HACER", "text": "Revisa tu situacion en **sii.cl o MiSii** antes de que el SII actue por su cuenta", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tu empresa esta inactiva y **no sabes como cerrarla bien?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a hacer el termino de giro correctamente."}
+  ]
+}

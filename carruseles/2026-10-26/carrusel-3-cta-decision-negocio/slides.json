@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Si tu empresa dejara de operar hoy, sabrias que hacer?"},
+    {"type": "text", "lines": ["La contabilidad no es", "solo para cuando", "**las cosas van bien.**", "Tambien ordena el cierre."], "sub": "Evaluar tu situacion contable es tan importante como cualquier otra decision de negocio."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE EVITAS", "text": "Multas, plazos vencidos y tramites que el SII termina haciendo **por ti, a su manera**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **la misma prioridad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

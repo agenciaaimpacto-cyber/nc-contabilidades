@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO SI DESPACHAS MERCADERIA", "text": "Una guia de despacho mal emitida desde noviembre **puede salir cara**"},
+    {"type": "text", "lines": ["Si un documento", "ya emitido queda", "**con datos malos,**", "hay que corregirlo."], "sub": "La factura se corrige con nota de credito; la guia se anula en el Registro de Guias de Despacho."},
+    {"type": "proof", "tag": "LA VENTANA QUE QUEDA", "text": "Hasta el **31 de octubre** rige la norma anterior, aunque ya puedes adoptar el nuevo formato", "source": "Fuente: SII, Resolucion Exenta N 52 de 2026"},
+    {"type": "proof", "tag": "A QUIEN AFECTA", "text": "Distribuidoras, manufactura y **retail con reparto propio** que emiten guias o facturas de traslado", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Revisaste ya con tu proveedor de facturacion si **esta al dia?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisar tu situacion antes del 1 de noviembre."}
+  ]
+}

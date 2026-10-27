@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El SII cambio la norma de guias de despacho **6 dias antes** de que entre en vigencia"},
+    {"type": "text", "lines": ["La Resolucion", "Exenta N 144,", "**del 23 de octubre,**", "reemplaza la N 154."], "sub": "Reune en una sola norma las exigencias para facturas y guias de despacho que amparan traslado de bienes."},
+    {"type": "stat", "number": "01", "unit": "nov", "text": "entran en vigencia las nuevas exigencias para el **traslado de bienes**"},
+    {"type": "proof", "tag": "LO QUE EXIGE", "text": "Origen, destino, **datos del conductor** y la patente del vehiculo en cada guia o factura de traslado", "source": "Fuente: SII, Resolucion Exenta N 144 de 2026"},
+    {"type": "cta", "text": "Tu sistema de facturacion **ya esta listo** para el 1 de noviembre?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

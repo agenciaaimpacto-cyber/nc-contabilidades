@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Cuanto tiempo lleva tu contabilidad **sin una revision real?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "**todas se revisan.**", "La contabilidad tambien deberia."], "sub": "Evaluar tu situacion contable es una decision de negocio, no un gasto."},
+    {"type": "proof", "tag": "EL COSTO DE NO HACERLO", "text": "Normas que cambian **sin avisar**, plazos que se vencen y multas que se pudieron evitar", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LA DECISION", "text": "Contratar el servicio **no es un gasto. Es una decision de negocio**, igual que las demas", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **la atencion que merece?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

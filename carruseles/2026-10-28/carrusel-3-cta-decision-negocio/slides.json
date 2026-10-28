@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Si un numero del SII cambia cada mes, **tu negocio se entera a tiempo?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "**todas se revisan", "mes a mes.**"], "sub": "La contabilidad deberia tener el mismo seguimiento constante."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Alguien que te avisa **a tiempo** cuando una cifra o una norma te afecta, no despues", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **la misma seriedad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

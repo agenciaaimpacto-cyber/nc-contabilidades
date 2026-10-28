@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "La UTM no es solo un numero: mueve multas y topes **todos los meses**"},
+    {"type": "text", "lines": ["Boletas de honorarios,", "multas tributarias", "**y topes de ingreso", "se calculan en UTM.**"], "sub": "Si la UTM sube, el monto en pesos de esos tramites tambien sube."},
+    {"type": "proof", "tag": "LA TRAMPA", "text": "Una multa o un tope fijado en UTM **se encarece en pesos** cada mes, aunque la norma de fondo no cambie", "source": "Fuente: SII, Valores y Fechas UTM 2026"},
+    {"type": "proof", "tag": "QUE HACER", "text": "Revisa con que UTM corresponde calcular **cada tramite de noviembre**, antes de pagar o declarar", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Quieres que alguien revise esto **por ti cada mes?**", "button": "Escribeme por WhatsApp ->", "sub": "Llevamos tu contabilidad al dia, sin sustos de ultima hora."}
+  ]
+}

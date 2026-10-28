@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "Noviembre llega con una cifra nueva: la UTM subio a **$72.440**"},
+    {"type": "text", "lines": ["Es el valor oficial", "publicado por el", "**SII para noviembre", "de 2026.**"], "sub": "Sube $289 respecto a octubre, un alza de 0,4%."},
+    {"type": "stat", "number": "3,86", "unit": "%", "text": "es lo que acumula la UTM en lo que va de 2026, desde los $69.751 de enero"},
+    {"type": "proof", "tag": "UTA NOVIEMBRE", "text": "La Unidad Tributaria Anual tambien subio, a **$869.280**", "source": "Fuente: SII, Valores y Fechas UTM 2026"},
+    {"type": "cta", "text": "Sabes con que UTM te corresponde **calcular noviembre?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo."}
+  ]
+}

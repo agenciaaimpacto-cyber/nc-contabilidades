@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Si el F29 vence el mismo dia cada mes, **tu contabilidad se revisa igual?**"},
+    {"type": "text", "lines": ["Marketing, ventas", "y operaciones se", "revisan **mes a mes.**"], "sub": "Tu contabilidad merece el mismo seguimiento."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE EVITAS", "text": "Declarar a tiempo, **sin multas ni sorpresas,** mes tras mes", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **la misma seriedad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Declarar el F29 fuera de plazo **no es gratis**"},
+    {"type": "text", "lines": ["El SII aplica", "reajustes, intereses", "**y multas** sobre", "lo que quedo pendiente."], "sub": "El costo crece mientras mas tiempo pase sin declarar."},
+    {"type": "proof", "tag": "SII", "text": "El plazo solo se traslada al dia siguiente si cae en **fin de semana o feriado**", "source": "Fuente: sii.cl, Calendario Tributario"},
+    {"type": "proof", "tag": "LA CLAVE", "text": "Decidir con anticipacion si declaras en **papel o por Internet** evita el apuro del ultimo dia", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres dejar de **correr cada mes?**", "button": "Escribeme por WhatsApp ->", "sub": "Llevamos tu IVA y tus plazos al dia."}
+  ]
+}

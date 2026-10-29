@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CALENDARIO TRIBUTARIO", "text": "El **F29 de octubre** tiene un plazo que ya esta corriendo"},
+    {"type": "stat", "number": "12", "unit": "nov", "text": "es el plazo general para declarar y pagar el **F29** de octubre"},
+    {"type": "text", "lines": ["Si declaras y pagas", "por Internet en sii.cl,", "el plazo llega al", "**20 de noviembre.**"], "sub": "Aplica si cumples los requisitos que fija el SII."},
+    {"type": "proof", "tag": "SII", "text": "El F29 declara y paga el **IVA**, el **PPM** y las retenciones del mes", "source": "Fuente: sii.cl, Preguntas Frecuentes"},
+    {"type": "cta", "text": "No quieres acordarte **el ultimo dia?**", "button": "Escribeme por WhatsApp ->", "sub": "Te avisamos con tiempo, cada mes."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "BALANCE OPERACION RENTA 2026", "text": "El SII devolvio **$3,25 billones** a casi 2,8 millones de contribuyentes"},
+    {"type": "stat", "number": "5,1", "unit": "millones", "text": "de declaraciones de Renta recibio el SII durante 2026"},
+    {"type": "text", "lines": ["De esas,", "**2.797.715**", "recibieron su", "devolucion efectiva."], "sub": "Segun el balance final del SII y la Tesoreria."},
+    {"type": "proof", "tag": "SII / TESORERIA", "text": "La devolucion total pagada alcanzo los **$3,25 billones**", "source": "Fuente: Emol, balance Operacion Renta 2026"},
+    {"type": "cta", "text": "Tu declaracion de Renta **esta lista para el proximo ciclo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion contable sin costo."}
+  ]
+}

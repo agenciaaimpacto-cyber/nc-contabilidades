@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE NO SE VE EN EL BALANCE", "text": "**465.223** declaraciones de Renta quedaron observadas por el SII"},
+    {"type": "stat", "number": "131", "unit": "mil", "text": "contribuyentes tuvieron parte de su devolucion retenida por deudas de CAE o pensiones de alimentos"},
+    {"type": "text", "lines": ["Una declaracion", "observada se demora", "mas en pagarse,", "o no se paga."], "sub": "Evitarlo depende de la contabilidad al dia durante todo el año."},
+    {"type": "proof", "tag": "SII / TESORERIA", "text": "Las observadas bajaron **12,7%** respecto de 2025, a 465.223 casos", "source": "Fuente: Emol, balance Operacion Renta 2026"},
+    {"type": "cta", "text": "Quieres evitar que tu proxima declaracion **quede observada?**", "button": "Escribeme por WhatsApp ->", "sub": "Orden contable durante el año, no solo en abril."}
+  ]
+}

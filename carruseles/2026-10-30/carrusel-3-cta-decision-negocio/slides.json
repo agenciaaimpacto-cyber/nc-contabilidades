@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Si el SII revisa **5,1 millones** de declaraciones cada año, **revisas tu contabilidad con la misma frecuencia?**"},
+    {"type": "text", "lines": ["Marketing, ventas", "y operaciones se", "evaluan **todo el año.**"], "sub": "Tu contabilidad merece el mismo seguimiento."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE EVITAS", "text": "Declaraciones observadas, **multas y sorpresas** en abril", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **la misma seriedad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

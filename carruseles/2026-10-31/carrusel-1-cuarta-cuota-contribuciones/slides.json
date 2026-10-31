@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CALENDARIO TRIBUTARIO", "text": "Queda **un mes** para la ultima cuota de contribuciones de 2026"},
+    {"type": "stat", "number": "30", "unit": "nov", "text": "vence la **cuarta y ultima cuota** de las contribuciones de bienes raices"},
+    {"type": "text", "lines": ["Se pagan 4 veces", "al año: abril, junio,", "septiembre y", "**noviembre.**"], "sub": "La cuarta cuota cierra el calendario del año."},
+    {"type": "proof", "tag": "CHILEATIENDE", "text": "El pago se hace en **tesoreria.cl**, bancos y cajas convenidas, o en oficinas de la TGR", "source": "Fuente: chileatiende.gob.cl"},
+    {"type": "cta", "text": "Tienes el **rol de tu propiedad** a mano?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisarlo antes del plazo."}
+  ]
+}

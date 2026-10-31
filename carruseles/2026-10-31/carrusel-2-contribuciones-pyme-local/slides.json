@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Las contribuciones **no son solo de tu casa**"},
+    {"type": "text", "lines": ["Tu local, oficina", "o bodega tambien", "paga contribuciones", "**si supera el exento.**"], "sub": "El avaluo fiscal del inmueble determina el monto."},
+    {"type": "proof", "tag": "RIESGO", "text": "Pagar fuera de plazo genera **reajustes e intereses** que la Tesoreria aplica automaticamente", "source": "Fuente: chileatiende.gob.cl"},
+    {"type": "proof", "tag": "LA CLAVE", "text": "Revisar el **rol de la propiedad** con anticipacion evita sorpresas el 30 de noviembre", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Sabes si tu negocio **paga contribuciones?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo."}
+  ]
+}

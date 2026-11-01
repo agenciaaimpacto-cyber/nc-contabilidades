@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "Si ya vendiste una vivienda nueva, podrias **recuperar el IVA**"},
+    {"type": "text", "lines": ["El SII creo un procedimiento", "especial de devolucion", "**retroactiva** para ventas anteriores."], "sub": "Resolucion Exenta N 146, segun el articulo cuarto transitorio de la Ley 21.850."},
+    {"type": "proof", "tag": "REQUISITO", "text": "La escritura debe tener una **clausula expresa** de devolucion del IVA -- no se puede agregar despues", "source": "Fuente: BioBioChile — Devolucion retroactiva de IVA a la vivienda"},
+    {"type": "proof", "tag": "FORMULARIO F3298", "text": "El vendedor pide la devolucion al SII desde el **1 de diciembre de 2026**, con un plazo de **3 anos**", "source": "Fuente: BioBioChile, 31 de octubre de 2026"},
+    {"type": "cta", "text": "Vendes o construyes **viviendas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tus contratos y el tramite ante el SII."}
+  ]
+}

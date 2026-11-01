@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY 21.850", "text": "Las viviendas nuevas dejan de pagar **IVA** desde el 1 de diciembre"},
+    {"type": "text", "lines": ["La exencion aplica a las", "compraventas entre el", "**1 dic 2026 y el 30 nov 2027.**"], "sub": "El precio ya no lleva el recargo: quien compra desde esa fecha no hace ningun tramite."},
+    {"type": "proof", "tag": "ALCANCE", "text": "El beneficio es solo para **viviendas nuevas** -- no aplica a inmuebles usados", "source": "Fuente: BioBioChile — Exencion de IVA a la vivienda"},
+    {"type": "proof", "tag": "SII", "text": "El procedimiento quedo fijado en la **Resolucion Exenta N 146** del Servicio de Impuestos Internos", "source": "Fuente: BioBioChile, 31 de octubre de 2026"},
+    {"type": "cta", "text": "Tienes un negocio y no sabes si esta ley **te afecta?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos como te impacta la Ley 21.850."}
+  ]
+}

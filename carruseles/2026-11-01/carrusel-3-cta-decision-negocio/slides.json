@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Cuando una ley tributaria cambia, **tu contabilidad cambia con ella?**"},
+    {"type": "text", "lines": ["Marketing, ventas", "y operaciones se", "ajustan **todo el tiempo.**"], "sub": "Tu contabilidad deberia ajustarse con la misma rapidez."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Alguien que revisa **cada cambio normativo** y te dice si te afecta, antes de que sea tarde", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **la misma seriedad** que al resto de tu negocio?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

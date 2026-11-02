@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Mas retencion hoy puede significar **menos liquido** cada mes"},
+    {"type": "stat", "number": "16", "unit": "%", "text": "sera la retencion de tus boletas de honorarios desde **enero de 2027**"},
+    {"type": "text", "lines": ["Lo que no te retienen hoy", "se convierte en impuesto", "**pendiente** en abril."], "sub": "La Operacion Renta puede devolver ese credito -- pero solo si tu flujo de caja aguanto el ano completo."},
+    {"type": "proof", "tag": "RECOMENDACION", "text": "Proyecta tus ingresos de 2027 **con la nueva tasa** desde ahora, no en enero", "source": "Fuente: SII — Boletas de Honorarios"},
+    {"type": "cta", "text": "Quieres ordenar tu flujo de caja **antes de 2027?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

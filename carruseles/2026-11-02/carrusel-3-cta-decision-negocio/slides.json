@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Le pones la misma atencion a tu contabilidad que a tus **ventas?**"},
+    {"type": "text", "lines": ["Nadie improvisa su", "estrategia de marketing", "**o de operaciones.**"], "sub": "Tu contabilidad merece la misma planificacion."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Alguien que **anticipa cada cambio normativo** y te dice si te afecta, antes de que te cueste caro", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Vamos a ponerle **seriedad** a tu contabilidad?", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

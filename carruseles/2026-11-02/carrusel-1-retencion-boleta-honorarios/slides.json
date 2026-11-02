@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY 21.133", "text": "La retencion de tu boleta de honorarios **vuelve a subir** en enero"},
+    {"type": "text", "lines": ["Pasa de **15,25%** en 2026", "a **16%** desde el", "**1 de enero de 2027.**"], "sub": "Es un alza gradual que financia las cotizaciones previsionales de los independientes."},
+    {"type": "proof", "tag": "EL CALENDARIO", "text": "La tasa sigue subiendo hasta llegar a **17%** en 2028, su tope final", "source": "Fuente: SII — Boletas de Honorarios"},
+    {"type": "proof", "tag": "QUIEN LO PAGA", "text": "Afecta a todo **independiente que emite boletas** -- y a las pymes que las reciben y declaran", "source": "Fuente: SII, Ley N 21.133 de 2019"},
+    {"type": "cta", "text": "Emites o recibes boletas de **honorarios?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos como te afecta el alza del 2027."}
+  ]
+}

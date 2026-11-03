@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "No todos los trabajadores **financian igual** su capacitacion"},
+    {"type": "stat", "number": "80", "unit": "%", "text": "del costo del curso se financia para sueldos de **hasta 25 UTM**"},
+    {"type": "text", "lines": ["Entre 25 y 50 UTM baja", "a 50%, y sobre ese nivel", "**queda en solo 15%.**"], "sub": "Los tramos nuevos de la Ley 21.850 cambian cuanto te devuelve el SENCE por cada trabajador."},
+    {"type": "proof", "tag": "RECOMENDACION", "text": "Revisa los **sueldos de tu equipo** antes de planificar las capacitaciones de este año", "source": "Fuente: Emol — Ley de Reconstruccion Nacional"},
+    {"type": "cta", "text": "Quieres ordenar tu **presupuesto de capacitacion?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

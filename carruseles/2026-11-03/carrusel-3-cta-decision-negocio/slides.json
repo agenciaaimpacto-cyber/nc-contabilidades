@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Tienes un presupuesto para marketing, **pero para tu contabilidad?**"},
+    {"type": "text", "lines": ["Nadie deja su estrategia", "de ventas al azar.", "**Tu contabilidad tampoco deberia.**"], "sub": "Las dos areas sostienen el mismo negocio."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Alguien que **ordena tus numeros** con la misma seriedad con la que llevas el resto de tu empresa", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le damos a tu contabilidad **el lugar que merece?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

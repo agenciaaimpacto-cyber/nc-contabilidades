@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CAMBIO DESDE NOVIEMBRE", "text": "Tu credito por capacitacion **se achico** desde el 1 de noviembre"},
+    {"type": "stat", "number": "0,7", "unit": "%", "text": "es el nuevo tope de la franquicia SENCE sobre tu planilla anual -- **antes era 1%**"},
+    {"type": "text", "lines": ["Lo fijo la Ley N 21.850,", "de Reconstruccion Nacional,", "**vigente desde noviembre.**"], "sub": "El cambio se aplica de forma gradual hasta 2029."},
+    {"type": "proof", "tag": "FUENTE", "text": "La ley se publico en el **Diario Oficial** el 17 de octubre de 2026", "source": "Fuente: Emol"},
+    {"type": "cta", "text": "Sabes cuanto vas a poder **descontar este año?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

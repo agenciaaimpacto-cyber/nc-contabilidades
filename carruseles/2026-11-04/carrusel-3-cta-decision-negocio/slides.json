@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Revisas tus ventas cada mes. **Revisas tu contabilidad con la misma frecuencia?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "**todas se miran", "mes a mes.**"], "sub": "La parte contable deberia tener el mismo seguimiento, no uno de ultimo momento."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Alguien que revisa los cambios del SII **antes de que te afecten**, no despues", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **el lugar que merece?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

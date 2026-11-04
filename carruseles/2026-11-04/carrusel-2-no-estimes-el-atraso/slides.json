@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Calcular una multa **a ojo** puede dejarte con una deuda que no cerraste"},
+    {"type": "text", "lines": ["Si estimas el pago", "con la tabla de", "**un mes distinto,**"], "sub": "el monto puede quedar corto o alto -- y la diferencia sigue pendiente ante el SII."},
+    {"type": "stat", "number": "3", "unit": "variables", "text": "se cruzan cada mes para calcular un pago atrasado: reajuste, interes y multa"},
+    {"type": "proof", "tag": "LA RECOMENDACION", "text": "Revisa la **circular del mes en que realmente pagas**, no la del mes en que debiste pagar", "source": "Fuente: SII, tablas mensuales de reajustes y multas"},
+    {"type": "cta", "text": "Prefieres que alguien **lo calcule por ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion tributaria sin costo."}
+  ]
+}

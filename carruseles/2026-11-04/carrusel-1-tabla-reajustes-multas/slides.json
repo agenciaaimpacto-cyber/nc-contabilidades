@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "Si pagas un impuesto atrasado este mes, **el calculo no es el mismo que en octubre**"},
+    {"type": "text", "lines": ["El SII publico la", "**Circular N 41**", "con la tabla de noviembre."], "sub": "Fija el reajuste, el interes y la multa para pagos atrasados de este mes."},
+    {"type": "proof", "tag": "POR QUE CAMBIA", "text": "El reajuste sigue la **variacion del IPC** del periodo, asi que la tabla se renueva todos los meses", "source": "Fuente: SII, Circular N 41 del 15 de octubre de 2026"},
+    {"type": "proof", "tag": "A QUE APLICA", "text": "Rige para los impuestos adeudados segun los **articulos 53 y 97 N 2 y N 11** del Codigo Tributario", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tienes un pago atrasado y no sabes **cuanto corresponde hoy?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a calcularlo con la tabla vigente."}
+  ]
+}

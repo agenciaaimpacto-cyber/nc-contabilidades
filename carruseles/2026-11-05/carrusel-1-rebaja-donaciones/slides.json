@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY DE RECONSTRUCCION", "text": "El impuesto a las donaciones **baja a la mitad** por un año"},
+    {"type": "text", "lines": ["Aplica a lo que le dones", "a tus hijos, conyuge u otros", "**herederos forzosos.**"], "sub": "El beneficio es por una sola vez por cada donante -- no se puede repetir."},
+    {"type": "proof", "tag": "LA VENTANA", "text": "El beneficio correria desde el **1 de diciembre de 2026**, por un año", "source": "Fuente: Diario Financiero -- Ley N 21.850, articulo primero transitorio"},
+    {"type": "proof", "tag": "OJO", "text": "La circular que fija los requisitos definitivos **todavia esta en consulta publica**", "source": "Fuente: Diario Financiero, SII"},
+    {"type": "cta", "text": "Estas pensando en traspasar **patrimonio familiar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso antes de que firmes nada."}
+  ]
+}

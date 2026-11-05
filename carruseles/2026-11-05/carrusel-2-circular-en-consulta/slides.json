@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ANTES DE FIRMAR", "text": "Si vas a donarle algo a tus hijos, **espera la letra chica**"},
+    {"type": "text", "lines": ["El beneficio de la Ley de", "Reconstruccion ya es ley,", "**pero falta la instruccion.**"], "sub": "El SII todavia no publica la version final de los requisitos."},
+    {"type": "stat", "number": "14", "unit": "paginas", "text": "tiene el borrador de circular que el SII puso a consulta publica"},
+    {"type": "proof", "tag": "EL NOTARIO", "text": "No puede autorizar la escritura **sin acreditar** la declaracion jurada y el pago del impuesto", "source": "Fuente: Diario Financiero"},
+    {"type": "cta", "text": "Prefieres revisarlo con alguien **antes de escriturar?**", "button": "Escribeme por WhatsApp ->", "sub": "Te avisamos cuando salga la circular definitiva."}
+  ]
+}

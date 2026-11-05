@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Le pones fecha a tus metas de ventas. **Le pones fecha a tu orden contable?**"},
+    {"type": "text", "lines": ["Marketing, ventas,", "operaciones...", "**todas tienen un plan.**"], "sub": "La parte contable deberia tener el mismo nivel de planificacion, no quedar para despues."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Evaluar tu situacion contable o contratar el servicio **no es un gasto. Es una decision de negocio**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Alguien que te avisa de un cambio normativo **antes de que te afecte**, no despues", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **el lugar que merece?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

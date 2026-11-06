@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "El segundo proyecto no habla de impuestos -- **habla de atraso en pagos**"},
+    {"type": "text", "lines": ["Busca evitar que", "practicas injustificadas", "**retrasen el pago** de", "facturas a proveedores chicos."], "sub": "Apunta directo a la liquidez de las pymes."},
+    {"type": "proof", "tag": "EL ESTADO ACTUAL", "text": "Ninguno de los dos proyectos tiene todavia **numero de boletin ni texto definitivo**", "source": "Fuente: Emol"},
+    {"type": "proof", "tag": "LA RECOMENDACION", "text": "Seguir la tramitacion **antes de proyectar** cambios en tu carga tributaria para 2028", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres que te avise **cuando avance?**", "button": "Escribeme por WhatsApp ->", "sub": "Te mantenemos al dia con lo que de verdad aplica a tu pyme."}
+  ]
+}

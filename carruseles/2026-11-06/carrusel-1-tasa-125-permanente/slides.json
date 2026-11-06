@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PROYECTO DE LEY", "text": "El Gobierno quiere dejar fija la tasa pyme de **12,5%**"},
+    {"type": "stat", "number": "12,5", "unit": "%", "text": "es la tasa de Primera Categoria que hoy pagan las pymes del Regimen Pro Pyme"},
+    {"type": "text", "lines": ["Pero esa tasa es", "transitoria -- rige solo", "**para 2026 y 2027.**"], "sub": "Sin una nueva ley, empezaria a subir desde 2028."},
+    {"type": "proof", "tag": "OJO", "text": "El proyecto para fijarla en forma permanente **recien ingresaria al Congreso**", "source": "Fuente: Emol"},
+    {"type": "cta", "text": "Sabes como queda tu empresa **si la tasa sube?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

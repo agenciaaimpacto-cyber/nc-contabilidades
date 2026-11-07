@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Un dato mal reportado en una DJ **puede generar una observacion**"},
+    {"type": "text", "lines": ["La DJ de sueldos o la", "de honorarios de tu", "**empresa alimenta directo**", "tu propia Operacion Renta."], "sub": "Si el dato no calza, el SII lo marca como diferencia."},
+    {"type": "proof", "tag": "EL RIESGO", "text": "Dejar la informacion de 2026 **para el ultimo mes** antes del vencimiento", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE CONVIENE", "text": "Ordenar remuneraciones, honorarios e inversiones **ahora, con tiempo**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Tu informacion de 2026 **esta ordenada?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a dejarla lista antes de febrero."}
+  ]
+}

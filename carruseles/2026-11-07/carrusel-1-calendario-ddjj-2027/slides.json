@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "El SII ya fijo el calendario de declaraciones juradas **del 2027**"},
+    {"type": "text", "lines": ["Son las DJ que reportan", "sueldos, honorarios e", "**inversiones de 2026.**"], "sub": "Resolucion Exenta N 135, del 2 de octubre de 2026."},
+    {"type": "stat", "number": "Feb-Jul", "unit": "2027", "text": "es la ventana en que se escalonan los vencimientos, **antes de la Operacion Renta**"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Estas DJ son la base con la que el SII **pre-llena tu declaracion de renta**", "source": "Fuente: SII, Resolucion Exenta N 135"},
+    {"type": "cta", "text": "Tienes claro **que DJ te aplican** este ciclo?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

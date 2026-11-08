@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII", "text": "Tu banco ya **debe revisar** tu cumplimiento tributario antes de prestarte"},
+    {"type": "text", "lines": ["Lo exige el articulo 89", "del Codigo Tributario,", "**vigente desde julio", "de 2025.**"], "sub": "Incorporado por la Ley N 21.713."},
+    {"type": "stat", "number": "1", "unit": "jul 2025", "text": "es cuando empezo a exigirse la **acreditacion de cumplimiento** para creditos de empresas"},
+    {"type": "proof", "tag": "COMO SE VERIFICA", "text": "El SII habilito a los bancos a **chequear tu situacion en linea**", "source": "Fuente: SII, Resolucion Exenta N 69 de 2025"},
+    {"type": "cta", "text": "Tu empresa **pasaria el filtro** de un banco hoy?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu cumplimiento tributario sin costo."}
+  ]
+}

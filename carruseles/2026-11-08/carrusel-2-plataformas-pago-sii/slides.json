@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESDE ENERO 2026", "text": "No solo los bancos: las **plataformas de pago** tambien te revisan"},
+    {"type": "text", "lines": ["Medios de pago electronico", "y plataformas digitales", "**deben verificar tu", "cumplimiento tributario.**"], "sub": "Al iniciar la operacion y despues cada semestre."},
+    {"type": "stat", "number": "2x", "unit": "al ano", "text": "es la frecuencia minima con que **te vuelven a revisar**"},
+    {"type": "proof", "tag": "LO QUE ESTA EN JUEGO", "text": "Seguir operando con normalidad en **bancos y plataformas de venta**", "source": "Fuente: Emol, cumplimiento tributario en pymes"},
+    {"type": "cta", "text": "Sabes si tu empresa **esta al dia** ante estos filtros?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo."}
+  ]
+}

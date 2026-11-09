@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE VIENE", "text": "El SII quiere **cruzar mejor** lo que declaras con lo que fiscaliza"},
+    {"type": "text", "lines": ["La nueva metodologia", "usa datos reales de", "**auditorias, no solo", "proyecciones.**"], "sub": "Apoyo tecnico del FMI al SII, noviembre 2026."},
+    {"type": "proof", "tag": "LA META", "text": "Dejar un indicador propio que el SII pueda calcular **de forma periodica** desde ahora", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Menos espacio para que un **gasto mal clasificado** pase inadvertido", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Tu contabilidad **aguanta un cruce de datos** mas fino?", "button": "Escribeme por WhatsApp ->", "sub": "La ordenamos antes de que te pidan explicaciones."}
+  ]
+}

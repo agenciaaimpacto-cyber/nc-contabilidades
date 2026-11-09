@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SII + FMI", "text": "El FMI llego a Chile a ayudar al SII a medir cuanto impuesto **no se paga**"},
+    {"type": "text", "lines": ["Una mision tecnica trabaja", "con el SII hasta el", "**13 de noviembre**", "en una nueva metodologia."], "sub": "Mide la brecha de cumplimiento con datos reales de fiscalizacion."},
+    {"type": "stat", "number": "2-13", "unit": "nov 2026", "text": "son los dias en que expertos del FMI trabajan en terreno junto al SII"},
+    {"type": "proof", "tag": "EL OBJETIVO", "text": "Estimar la brecha de cumplimiento del Impuesto de Primera Categoria **con datos de auditorias reales**", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Si cruzan tus datos con una fiscalizacion, **estas tranquilo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion tributaria sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE PASA", "text": "Una declaracion de hace **6 anos** puede volver a aparecer como deuda"},
+    {"type": "text", "lines": ["El SII no olvida los", "anos en que no", "**se declaro renta.**", "Resurgen cuando menos lo esperas."], "sub": "El caso del Prestamo Solidario de la pandemia lo muestra hoy."},
+    {"type": "proof", "tag": "EL RIESGO", "text": "Lo que no declaraste **sigue pendiente** hasta que el SII lo cruza con otro tramite", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "LA SALIDA", "text": "Poner al dia las declaraciones atrasadas **antes** de que te las exijan con plazo encima", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Sabes si tienes declaraciones **atrasadas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu historial tributario sin costo."}
+  ]
+}

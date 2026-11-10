@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PLAZO SII", "text": "Casi **900 mil** contribuyentes tienen hasta fin de mes para regularizar"},
+    {"type": "text", "lines": ["El SII amplio el plazo", "para el Prestamo Solidario", "de la pandemia", "**hasta el 30 de noviembre.**"], "sub": "Aplica a quienes quedaron con cuotas pendientes de los anos tributarios 2020 y 2021."},
+    {"type": "stat", "number": "30", "unit": "noviembre", "text": "es el nuevo plazo para presentar las declaraciones de renta pendientes o pedir un convenio"},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "Si no puedes pagar, obtienes un **cupon de deuda** y despues firmas un convenio en cuotas con la Tesoreria", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Tienes declaraciones de anos anteriores **sin presentar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion tributaria sin costo."}
+  ]
+}

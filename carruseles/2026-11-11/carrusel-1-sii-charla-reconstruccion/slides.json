@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY DE RECONSTRUCCION", "text": "Mas de **3.500 personas** se conectaron a la charla del SII para entender la nueva ley"},
+    {"type": "text", "lines": ["El SII tuvo que explicar", "la ley en una charla", "**masiva online**", "el 3 de noviembre."], "sub": "La encabezo la Subdirectora de Fiscalizacion, Carolina Saravia."},
+    {"type": "stat", "number": "17", "unit": "noviembre", "text": "es el plazo para comentar las circulares que aun definen varios detalles de la ley"},
+    {"type": "proof", "tag": "LO QUE SIGNIFICA", "text": "Si el SII necesita una charla masiva para explicarla, **no es una ley menor** para tu negocio", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Sabes como te afecta **esta reforma?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo."}
+  ]
+}

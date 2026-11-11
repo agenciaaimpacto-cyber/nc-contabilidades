@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA PENSARLO", "text": "Planificas tu marketing. **Planificas tu contabilidad igual?**"},
+    {"type": "text", "lines": ["Tu contabilidad no es", "un tramite de ultima hora:", "**es una decision", "de negocio,** como cualquier otra."], "sub": "Igual de estrategica que ventas, marketing u operaciones."},
+    {"type": "proof", "tag": "EL CAMBIO DE MIRADA", "text": "Revisar tu situacion contable o contratar el servicio **no es un gasto. Es una inversion.**", "source": "NC Contabilidades"},
+    {"type": "proof", "tag": "LO QUE GANAS", "text": "Menos sorpresas con el SII y **mas decisiones con datos reales**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Le das a tu contabilidad **el lugar que merece?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos sin costo ni compromiso."}
+  ]
+}

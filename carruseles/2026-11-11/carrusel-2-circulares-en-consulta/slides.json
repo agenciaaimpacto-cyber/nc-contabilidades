@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Las circulares que fijan los detalles de la ley **todavia estan en borrador**"},
+    {"type": "text", "lines": ["La rebaja a donaciones", "y la devolucion de IVA", "en vivienda nueva", "**aun no tienen reglas finales.**"], "sub": "El SII las dejo en consulta publica hasta mediados de noviembre."},
+    {"type": "proof", "tag": "EL RIESGO", "text": "Tomar decisiones con reglas que **todavia pueden cambiar** sale caro", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "LA SALIDA", "text": "Seguir de cerca cada circular antes de **actuar como si ya fuera definitiva**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres que alguien **te avise cuando cambie?**", "button": "Escribeme por WhatsApp ->", "sub": "Te mantenemos al dia sin costo."}
+  ]
+}

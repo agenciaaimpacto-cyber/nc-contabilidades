@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Ese acuerdo es **solo para grandes mineras**... pero la logica aplica a cualquier negocio"},
+    {"type": "text", "lines": ["El SII fiscaliza menos", "a quien tiene su", "contabilidad **ordenada", "y transparente.**"], "sub": "No depende del tamano de la empresa."},
+    {"type": "proof", "tag": "LA LEY DE FONDO", "text": "La Ley de Cumplimiento Tributario (21.713) premia a quien **reporta a tiempo**", "source": "Fuente: SII"},
+    {"type": "proof", "tag": "LA DIFERENCIA", "text": "Entre una pyme fiscalizada de cerca y una tranquila: **si sus registros estan al dia**", "source": "NC Contabilidades"},
+    {"type": "cta", "text": "Quieres estar del lado **tranquilo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu contabilidad sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA SII", "text": "El SII firmo un **nuevo acuerdo** de cooperacion tributaria con un gran grupo minero"},
+    {"type": "text", "lines": ["El 7 de octubre,", "el SII y Anglo American", "firmaron un acuerdo que", "**cubre 14 entidades.**"], "sub": "Reemplaza el convenio que tenian desde 2019."},
+    {"type": "stat", "number": "14", "unit": "entidades", "text": "del grupo quedan bajo este **acuerdo de cooperacion** con el SII"},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "La empresa reporta sus riesgos a tiempo; el SII la gestiona **segun su perfil de riesgo**", "source": "Fuente: SII"},
+    {"type": "cta", "text": "Sabes como te **clasifica el SII?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo."}
+  ]
+}
